@@ -1,0 +1,301 @@
+,model,bootstrap_iteration,discrimination_slope
+0,GenMetS + covariates,0,0.1475212
+1,GenMetS + covariates,1,0.12977913
+2,GenMetS + covariates,2,0.096750796
+3,GenMetS + covariates,3,0.15176225
+4,GenMetS + covariates,4,0.04038295
+5,GenMetS + covariates,5,0.04589501
+6,GenMetS + covariates,6,0.100966424
+7,GenMetS + covariates,7,0.123859555
+8,GenMetS + covariates,8,0.089743584
+9,GenMetS + covariates,9,0.09208897
+10,GenMetS + covariates,10,0.15030679
+11,GenMetS + covariates,11,0.038856745
+12,GenMetS + covariates,12,0.13341597
+13,GenMetS + covariates,13,0.09206191
+14,GenMetS + covariates,14,0.14323315
+15,GenMetS + covariates,15,0.07899892
+16,GenMetS + covariates,16,0.10014486
+17,GenMetS + covariates,17,0.12665093
+18,GenMetS + covariates,18,0.14870277
+19,GenMetS + covariates,19,0.06943232
+20,GenMetS + covariates,20,0.1091705
+21,GenMetS + covariates,21,0.07661232
+22,GenMetS + covariates,22,0.07298425
+23,GenMetS + covariates,23,0.063159436
+24,GenMetS + covariates,24,0.07877278
+25,GenMetS + covariates,25,0.08946055
+26,GenMetS + covariates,26,0.08111504
+27,GenMetS + covariates,27,0.06239021
+28,GenMetS + covariates,28,0.12007889
+29,GenMetS + covariates,29,0.092437
+30,GenMetS + covariates,30,0.12300512
+31,GenMetS + covariates,31,0.040974498
+32,GenMetS + covariates,32,0.089375764
+33,GenMetS + covariates,33,0.031698316
+34,GenMetS + covariates,34,0.08726996
+35,GenMetS + covariates,35,0.054784834
+36,GenMetS + covariates,36,0.057624936
+37,GenMetS + covariates,37,0.055274546
+38,GenMetS + covariates,38,0.20716986
+39,GenMetS + covariates,39,0.08944124
+40,GenMetS + covariates,40,0.018837184
+41,GenMetS + covariates,41,0.0512262
+42,GenMetS + covariates,42,0.027165473
+43,GenMetS + covariates,43,0.077464044
+44,GenMetS + covariates,44,0.08012697
+45,GenMetS + covariates,45,0.08406559
+46,GenMetS + covariates,46,0.1395568
+47,GenMetS + covariates,47,0.090020716
+48,GenMetS + covariates,48,0.08030835
+49,GenMetS + covariates,49,0.06686133
+50,GenMetS + covariates,50,0.088514745
+51,GenMetS + covariates,51,0.08495265
+52,GenMetS + covariates,52,0.09485173
+53,GenMetS + covariates,53,0.07713696
+54,GenMetS + covariates,54,0.18115407
+55,GenMetS + covariates,55,0.057335585
+56,GenMetS + covariates,56,0.10084897
+57,GenMetS + covariates,57,0.092606425
+58,GenMetS + covariates,58,0.04215911
+59,GenMetS + covariates,59,0.11582783
+60,GenMetS + covariates,60,0.13480622
+61,GenMetS + covariates,61,0.037917167
+62,GenMetS + covariates,62,0.12606603
+63,GenMetS + covariates,63,0.067299455
+64,GenMetS + covariates,64,0.053818226
+65,GenMetS + covariates,65,0.15481701
+66,GenMetS + covariates,66,0.10813877
+67,GenMetS + covariates,67,0.049275488
+68,GenMetS + covariates,68,0.082418054
+69,GenMetS + covariates,69,0.054555655
+70,GenMetS + covariates,70,0.08990008
+71,GenMetS + covariates,71,0.056175023
+72,GenMetS + covariates,72,0.07387948
+73,GenMetS + covariates,73,0.09528446
+74,GenMetS + covariates,74,0.052218586
+75,GenMetS + covariates,75,0.13776067
+76,GenMetS + covariates,76,0.06861374
+77,GenMetS + covariates,77,0.14739189
+78,GenMetS + covariates,78,0.103797555
+79,GenMetS + covariates,79,0.049384058
+80,GenMetS + covariates,80,0.12715036
+81,GenMetS + covariates,81,0.06458667
+82,GenMetS + covariates,82,0.09302467
+83,GenMetS + covariates,83,0.098109275
+84,GenMetS + covariates,84,0.1386618
+85,GenMetS + covariates,85,0.08148822
+86,GenMetS + covariates,86,0.12553436
+87,GenMetS + covariates,87,0.07325247
+88,GenMetS + covariates,88,0.08106539
+89,GenMetS + covariates,89,0.07738212
+90,GenMetS + covariates,90,0.0768134
+91,GenMetS + covariates,91,0.14794028
+92,GenMetS + covariates,92,0.09352997
+93,GenMetS + covariates,93,0.07169312
+94,GenMetS + covariates,94,0.104136944
+95,GenMetS + covariates,95,0.1426957
+96,GenMetS + covariates,96,0.07136467
+97,GenMetS + covariates,97,0.041071236
+98,GenMetS + covariates,98,0.0729132
+99,GenMetS + covariates,99,0.073005825
+100,GenMetS only,0,0.03386879
+101,GenMetS only,1,0.028440475
+102,GenMetS only,2,0.018803298
+103,GenMetS only,3,0.046573043
+104,GenMetS only,4,0.01974684
+105,GenMetS only,5,0.018212318
+106,GenMetS only,6,0.025320143
+107,GenMetS only,7,0.02516368
+108,GenMetS only,8,0.0345082
+109,GenMetS only,9,0.014820039
+110,GenMetS only,10,0.02314052
+111,GenMetS only,11,0.059787333
+112,GenMetS only,12,0.028677195
+113,GenMetS only,13,0.014034033
+114,GenMetS only,14,0.030847669
+115,GenMetS only,15,0.04921624
+116,GenMetS only,16,0.03083548
+117,GenMetS only,17,0.024645329
+118,GenMetS only,18,0.031707734
+119,GenMetS only,19,0.018137664
+120,GenMetS only,20,0.061780334
+121,GenMetS only,21,0.032260954
+122,GenMetS only,22,0.01763171
+123,GenMetS only,23,0.052191705
+124,GenMetS only,24,0.0624249
+125,GenMetS only,25,0.020159125
+126,GenMetS only,26,0.053745896
+127,GenMetS only,27,0.029112399
+128,GenMetS only,28,0.025219828
+129,GenMetS only,29,0.016421199
+130,GenMetS only,30,0.07554373
+131,GenMetS only,31,0.0016366839
+132,GenMetS only,32,0.05998385
+133,GenMetS only,33,0.011368871
+134,GenMetS only,34,0.06402096
+135,GenMetS only,35,0.039651513
+136,GenMetS only,36,0.020021379
+137,GenMetS only,37,0.035369843
+138,GenMetS only,38,0.05113703
+139,GenMetS only,39,0.00855425
+140,GenMetS only,40,0.03840846
+141,GenMetS only,41,0.017922789
+142,GenMetS only,42,0.03880292
+143,GenMetS only,43,0.043704927
+144,GenMetS only,44,0.043563873
+145,GenMetS only,45,0.01828894
+146,GenMetS only,46,0.02598676
+147,GenMetS only,47,0.028718948
+148,GenMetS only,48,0.044024736
+149,GenMetS only,49,0.02091387
+150,GenMetS only,50,0.015602231
+151,GenMetS only,51,0.030179322
+152,GenMetS only,52,0.011105955
+153,GenMetS only,53,0.03538245
+154,GenMetS only,54,0.04504299
+155,GenMetS only,55,0.024779528
+156,GenMetS only,56,0.058083415
+157,GenMetS only,57,0.06920144
+158,GenMetS only,58,0.016037494
+159,GenMetS only,59,0.024325699
+160,GenMetS only,60,0.040208697
+161,GenMetS only,61,0.034296274
+162,GenMetS only,62,0.013804823
+163,GenMetS only,63,0.02996096
+164,GenMetS only,64,0.029124886
+165,GenMetS only,65,0.022210151
+166,GenMetS only,66,0.00253129
+167,GenMetS only,67,0.017761052
+168,GenMetS only,68,0.04080811
+169,GenMetS only,69,0.01925391
+170,GenMetS only,70,0.030823678
+171,GenMetS only,71,-0.0039798617
+172,GenMetS only,72,0.0076901913
+173,GenMetS only,73,0.02222392
+174,GenMetS only,74,0.015591085
+175,GenMetS only,75,0.01723075
+176,GenMetS only,76,0.027849048
+177,GenMetS only,77,0.050627053
+178,GenMetS only,78,0.05460736
+179,GenMetS only,79,0.007843584
+180,GenMetS only,80,0.029760063
+181,GenMetS only,81,0.046205252
+182,GenMetS only,82,0.016836911
+183,GenMetS only,83,0.05685237
+184,GenMetS only,84,0.07395464
+185,GenMetS only,85,0.027134359
+186,GenMetS only,86,0.034614414
+187,GenMetS only,87,0.058897197
+188,GenMetS only,88,0.03883329
+189,GenMetS only,89,0.020173699
+190,GenMetS only,90,0.025196522
+191,GenMetS only,91,0.034680277
+192,GenMetS only,92,0.021480173
+193,GenMetS only,93,0.032776058
+194,GenMetS only,94,0.041365743
+195,GenMetS only,95,0.009452045
+196,GenMetS only,96,0.031190753
+197,GenMetS only,97,-0.004848957
+198,GenMetS only,98,0.02593857
+199,GenMetS only,99,0.04265648
+200,GenMetS + age,0,0.15304744
+201,GenMetS + age,1,0.13027921
+202,GenMetS + age,2,0.113791555
+203,GenMetS + age,3,0.15583417
+204,GenMetS + age,4,0.046714306
+205,GenMetS + age,5,0.089594245
+206,GenMetS + age,6,0.05360639
+207,GenMetS + age,7,0.05347985
+208,GenMetS + age,8,0.105912745
+209,GenMetS + age,9,0.1574333
+210,GenMetS + age,10,0.06850791
+211,GenMetS + age,11,0.070917904
+212,GenMetS + age,12,0.085097104
+213,GenMetS + age,13,0.073048025
+214,GenMetS + age,14,0.06894714
+215,GenMetS + age,15,0.083917886
+216,GenMetS + age,16,0.17472747
+217,GenMetS + age,17,0.14569357
+218,GenMetS + age,18,0.076132536
+219,GenMetS + age,19,0.14172536
+220,GenMetS + age,20,0.10535768
+221,GenMetS + age,21,0.034659714
+222,GenMetS + age,22,0.11487812
+223,GenMetS + age,23,0.1144931
+224,GenMetS + age,24,0.13334557
+225,GenMetS + age,25,0.118142575
+226,GenMetS + age,26,0.09874749
+227,GenMetS + age,27,0.11468288
+228,GenMetS + age,28,0.11893624
+229,GenMetS + age,29,0.0905534
+230,GenMetS + age,30,0.06393978
+231,GenMetS + age,31,0.04089454
+232,GenMetS + age,32,0.092853606
+233,GenMetS + age,33,0.04619336
+234,GenMetS + age,34,0.13122103
+235,GenMetS + age,35,0.1230852
+236,GenMetS + age,36,0.12662059
+237,GenMetS + age,37,0.1326113
+238,GenMetS + age,38,0.1916458
+239,GenMetS + age,39,0.12988275
+240,GenMetS + age,40,0.12105256
+241,GenMetS + age,41,0.06726083
+242,GenMetS + age,42,0.1358251
+243,GenMetS + age,43,0.051435232
+244,GenMetS + age,44,0.08647072
+245,GenMetS + age,45,0.07232833
+246,GenMetS + age,46,0.06838733
+247,GenMetS + age,47,0.16360551
+248,GenMetS + age,48,0.13684338
+249,GenMetS + age,49,0.0513584
+250,GenMetS + age,50,0.090433
+251,GenMetS + age,51,0.1422281
+252,GenMetS + age,52,0.084878266
+253,GenMetS + age,53,0.055130213
+254,GenMetS + age,54,0.07314569
+255,GenMetS + age,55,0.07855877
+256,GenMetS + age,56,0.15586933
+257,GenMetS + age,57,0.073828965
+258,GenMetS + age,58,0.08398259
+259,GenMetS + age,59,0.09344596
+260,GenMetS + age,60,0.16775343
+261,GenMetS + age,61,0.08363393
+262,GenMetS + age,62,0.13721403
+263,GenMetS + age,63,0.057500035
+264,GenMetS + age,64,0.056435496
+265,GenMetS + age,65,0.16481552
+266,GenMetS + age,66,0.038223416
+267,GenMetS + age,67,0.09991205
+268,GenMetS + age,68,0.082891345
+269,GenMetS + age,69,0.045529008
+270,GenMetS + age,70,0.07931805
+271,GenMetS + age,71,0.020687431
+272,GenMetS + age,72,0.10155067
+273,GenMetS + age,73,0.1310904
+274,GenMetS + age,74,0.07812777
+275,GenMetS + age,75,0.13077953
+276,GenMetS + age,76,0.06433281
+277,GenMetS + age,77,0.15425903
+278,GenMetS + age,78,0.13578153
+279,GenMetS + age,79,0.055907488
+280,GenMetS + age,80,0.057909966
+281,GenMetS + age,81,0.06591883
+282,GenMetS + age,82,0.07895702
+283,GenMetS + age,83,0.08326721
+284,GenMetS + age,84,0.067307144
+285,GenMetS + age,85,0.14386058
+286,GenMetS + age,86,0.10948992
+287,GenMetS + age,87,0.09560928
+288,GenMetS + age,88,0.055058926
+289,GenMetS + age,89,0.08479047
+290,GenMetS + age,90,0.13051224
+291,GenMetS + age,91,0.11009616
+292,GenMetS + age,92,0.06387013
+293,GenMetS + age,93,0.10839206
+294,GenMetS + age,94,0.06961319
+295,GenMetS + age,95,0.057938367
+296,GenMetS + age,96,0.03731081
+297,GenMetS + age,97,0.056414068
+298,GenMetS + age,98,0.0707739
+299,GenMetS + age,99,0.1313583

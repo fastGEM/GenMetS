@@ -1,0 +1,1001 @@
+,model,bootstrap_iteration,feature,feature_importance
+0,GenMetS + covariates,0,Age,0.7110172210131012
+1,GenMetS + covariates,0,GenMetS,0.21657212872313406
+2,GenMetS + covariates,0,TVhour,0.14325125560180405
+3,GenMetS + covariates,0,Education,0.11843690278939904
+4,GenMetS + covariates,0,PhysicalActivity,0.08251812158086924
+5,GenMetS + covariates,0,SocialEconomicalStatus,0.06620991966849259
+6,GenMetS + covariates,0,Sleephour,0.024576441721645755
+7,GenMetS + covariates,1,Age,0.47405472631669726
+8,GenMetS + covariates,1,GenMetS,0.1268347727656363
+9,GenMetS + covariates,1,Education,0.12196203331566519
+10,GenMetS + covariates,1,TVhour,0.10682069565410965
+11,GenMetS + covariates,1,SocialEconomicalStatus,0.04102204297317401
+12,GenMetS + covariates,1,Sleephour,0.0
+13,GenMetS + covariates,1,PhysicalActivity,0.0
+14,GenMetS + covariates,2,Age,0.2997668344913519
+15,GenMetS + covariates,2,GenMetS,0.17929701032012454
+16,GenMetS + covariates,2,SocialEconomicalStatus,0.11944472470861174
+17,GenMetS + covariates,2,Education,0.02463146318522867
+18,GenMetS + covariates,2,TVhour,0.020274773770611283
+19,GenMetS + covariates,2,PhysicalActivity,0.016563106309625753
+20,GenMetS + covariates,2,Sleephour,0.0068499858237639115
+21,GenMetS + covariates,3,Age,0.4956594138209605
+22,GenMetS + covariates,3,SocialEconomicalStatus,0.20975544574532512
+23,GenMetS + covariates,3,GenMetS,0.19702498103260851
+24,GenMetS + covariates,3,PhysicalActivity,0.08006858390828382
+25,GenMetS + covariates,3,TVhour,0.06857970973690627
+26,GenMetS + covariates,3,Education,0.06024479094985872
+27,GenMetS + covariates,3,Sleephour,0.0
+28,GenMetS + covariates,4,Age,0.24884497117616342
+29,GenMetS + covariates,4,TVhour,0.07932327323244816
+30,GenMetS + covariates,4,GenMetS,0.05061852602597707
+31,GenMetS + covariates,4,PhysicalActivity,0.01807273490371665
+32,GenMetS + covariates,4,SocialEconomicalStatus,0.0156679935388793
+33,GenMetS + covariates,4,Education,0.00612995636167384
+34,GenMetS + covariates,4,Sleephour,0.0033984745195549393
+35,GenMetS + covariates,5,Age,0.19074650117025085
+36,GenMetS + covariates,5,GenMetS,0.07051641885427481
+37,GenMetS + covariates,5,SocialEconomicalStatus,0.060429308968553044
+38,GenMetS + covariates,5,TVhour,0.05122253383788349
+39,GenMetS + covariates,5,PhysicalActivity,0.011711331728940693
+40,GenMetS + covariates,5,Education,0.011371492217932997
+41,GenMetS + covariates,5,Sleephour,0.004605107834666141
+42,GenMetS + covariates,6,Age,0.39837286470002614
+43,GenMetS + covariates,6,GenMetS,0.1976383237314441
+44,GenMetS + covariates,6,Education,0.09407032913769837
+45,GenMetS + covariates,6,TVhour,0.04618503470111783
+46,GenMetS + covariates,6,SocialEconomicalStatus,0.045243488083283115
+47,GenMetS + covariates,6,PhysicalActivity,0.02189070405783472
+48,GenMetS + covariates,6,Sleephour,0.0
+49,GenMetS + covariates,7,Age,0.5094206752109307
+50,GenMetS + covariates,7,SocialEconomicalStatus,0.23160607212154122
+51,GenMetS + covariates,7,GenMetS,0.1847053228151054
+52,GenMetS + covariates,7,TVhour,0.149122474861642
+53,GenMetS + covariates,7,Education,0.06566537658470106
+54,GenMetS + covariates,7,PhysicalActivity,0.03474927946649217
+55,GenMetS + covariates,7,Sleephour,0.0
+56,GenMetS + covariates,8,Age,0.45140467658283656
+57,GenMetS + covariates,8,GenMetS,0.23573343791957532
+58,GenMetS + covariates,8,SocialEconomicalStatus,0.15134430663273835
+59,GenMetS + covariates,8,PhysicalActivity,0.06605123358875238
+60,GenMetS + covariates,8,TVhour,0.029757002800703064
+61,GenMetS + covariates,8,Education,0.018180261256035276
+62,GenMetS + covariates,8,Sleephour,0.004248223519573617
+63,GenMetS + covariates,9,Age,0.40865166444283163
+64,GenMetS + covariates,9,SocialEconomicalStatus,0.10656900014174692
+65,GenMetS + covariates,9,GenMetS,0.04920343581756095
+66,GenMetS + covariates,9,Education,0.024785264333089155
+67,GenMetS + covariates,9,TVhour,0.0
+68,GenMetS + covariates,9,Sleephour,0.0
+69,GenMetS + covariates,9,PhysicalActivity,0.0
+70,GenMetS + covariates,10,Age,0.377614397182233
+71,GenMetS + covariates,10,GenMetS,0.22002268675763054
+72,GenMetS + covariates,10,TVhour,0.12975211549688273
+73,GenMetS + covariates,10,SocialEconomicalStatus,0.0954554207421564
+74,GenMetS + covariates,10,Education,0.04028060223162172
+75,GenMetS + covariates,10,PhysicalActivity,0.021668987803989015
+76,GenMetS + covariates,10,Sleephour,0.0
+77,GenMetS + covariates,11,Age,0.19560526965680758
+78,GenMetS + covariates,11,SocialEconomicalStatus,0.08456121049714448
+79,GenMetS + covariates,11,GenMetS,0.06482483175349062
+80,GenMetS + covariates,11,Education,0.038841714488238914
+81,GenMetS + covariates,11,TVhour,0.030635865621225614
+82,GenMetS + covariates,11,PhysicalActivity,0.008997289079892515
+83,GenMetS + covariates,11,Sleephour,0.00394873243144334
+84,GenMetS + covariates,12,Age,0.5542543274590191
+85,GenMetS + covariates,12,SocialEconomicalStatus,0.184687287227699
+86,GenMetS + covariates,12,GenMetS,0.1520664884866801
+87,GenMetS + covariates,12,Sleephour,0.05040660847599309
+88,GenMetS + covariates,12,Education,0.020056210514709925
+89,GenMetS + covariates,12,PhysicalActivity,0.013482775114476682
+90,GenMetS + covariates,12,TVhour,0.0
+91,GenMetS + covariates,13,Age,0.4171109689120547
+92,GenMetS + covariates,13,SocialEconomicalStatus,0.18557055559388735
+93,GenMetS + covariates,13,TVhour,0.09289836785086877
+94,GenMetS + covariates,13,GenMetS,0.0539746216047141
+95,GenMetS + covariates,13,PhysicalActivity,0.01835724352424344
+96,GenMetS + covariates,13,Sleephour,0.01415270415417573
+97,GenMetS + covariates,13,Education,0.007588144357281702
+98,GenMetS + covariates,14,Age,0.6398249003457733
+99,GenMetS + covariates,14,GenMetS,0.37450231683885465
+100,GenMetS + covariates,14,TVhour,0.15652767515872792
+101,GenMetS + covariates,14,SocialEconomicalStatus,0.1239383023928299
+102,GenMetS + covariates,14,Sleephour,0.06413771216316076
+103,GenMetS + covariates,14,PhysicalActivity,0.060842320679669736
+104,GenMetS + covariates,14,Education,0.05665824522743763
+105,GenMetS + covariates,15,Age,0.24699991843482821
+106,GenMetS + covariates,15,GenMetS,0.12728733986140206
+107,GenMetS + covariates,15,SocialEconomicalStatus,0.0771065638841139
+108,GenMetS + covariates,15,Education,0.042631784670374
+109,GenMetS + covariates,15,PhysicalActivity,0.02323306030066926
+110,GenMetS + covariates,15,TVhour,0.012057330215444653
+111,GenMetS + covariates,15,Sleephour,0.0014459993193546938
+112,GenMetS + covariates,16,Age,0.3685358898150135
+113,GenMetS + covariates,16,SocialEconomicalStatus,0.11736094601263503
+114,GenMetS + covariates,16,GenMetS,0.10301072290672107
+115,GenMetS + covariates,16,TVhour,0.06851025462415308
+116,GenMetS + covariates,16,Education,0.02114198735167049
+117,GenMetS + covariates,16,Sleephour,0.018448479663416825
+118,GenMetS + covariates,16,PhysicalActivity,0.01320924991884924
+119,GenMetS + covariates,17,Age,0.4689804320578219
+120,GenMetS + covariates,17,SocialEconomicalStatus,0.242534866830817
+121,GenMetS + covariates,17,GenMetS,0.20391677019607118
+122,GenMetS + covariates,17,PhysicalActivity,0.0651974196789993
+123,GenMetS + covariates,17,TVhour,0.03356114928755495
+124,GenMetS + covariates,17,Education,0.023025990075811187
+125,GenMetS + covariates,17,Sleephour,0.0
+126,GenMetS + covariates,18,Age,0.4413918301354476
+127,GenMetS + covariates,18,GenMetS,0.23565119734784168
+128,GenMetS + covariates,18,PhysicalActivity,0.09656694040775163
+129,GenMetS + covariates,18,Education,0.0588761835378698
+130,GenMetS + covariates,18,SocialEconomicalStatus,0.055025664242812355
+131,GenMetS + covariates,18,TVhour,0.03448241434784401
+132,GenMetS + covariates,18,Sleephour,0.021168579567292768
+133,GenMetS + covariates,19,Age,0.25389392978808395
+134,GenMetS + covariates,19,SocialEconomicalStatus,0.06176011784490265
+135,GenMetS + covariates,19,GenMetS,0.05802691502396569
+136,GenMetS + covariates,19,Education,0.05201105309757234
+137,GenMetS + covariates,19,PhysicalActivity,0.03739776034109915
+138,GenMetS + covariates,19,TVhour,0.012313333831227345
+139,GenMetS + covariates,19,Sleephour,0.004251840206587482
+140,GenMetS + covariates,20,Age,0.34812028680810814
+141,GenMetS + covariates,20,GenMetS,0.21317448661531582
+142,GenMetS + covariates,20,TVhour,0.06995339167062872
+143,GenMetS + covariates,20,Education,0.06463098388330811
+144,GenMetS + covariates,20,SocialEconomicalStatus,0.06268713251942833
+145,GenMetS + covariates,20,PhysicalActivity,0.02669536951736166
+146,GenMetS + covariates,20,Sleephour,0.007608709550566158
+147,GenMetS + covariates,21,Age,0.5099343046826761
+148,GenMetS + covariates,21,GenMetS,0.20206345704484172
+149,GenMetS + covariates,21,SocialEconomicalStatus,0.18642334482460104
+150,GenMetS + covariates,21,TVhour,0.08493351635012633
+151,GenMetS + covariates,21,PhysicalActivity,0.08156973519203836
+152,GenMetS + covariates,21,Education,0.057536923241508386
+153,GenMetS + covariates,21,Sleephour,0.020221006890603656
+154,GenMetS + covariates,22,Age,0.2960894788425734
+155,GenMetS + covariates,22,SocialEconomicalStatus,0.10315433296895826
+156,GenMetS + covariates,22,GenMetS,0.09128659474417672
+157,GenMetS + covariates,22,TVhour,0.07043153873840087
+158,GenMetS + covariates,22,PhysicalActivity,0.015429652905660778
+159,GenMetS + covariates,22,Education,0.009352359881460739
+160,GenMetS + covariates,22,Sleephour,0.002288216545600101
+161,GenMetS + covariates,23,Age,0.20868284637217066
+162,GenMetS + covariates,23,GenMetS,0.11112284474671578
+163,GenMetS + covariates,23,TVhour,0.030909669847658798
+164,GenMetS + covariates,23,SocialEconomicalStatus,0.00879431010441233
+165,GenMetS + covariates,23,Education,0.008273424527556117
+166,GenMetS + covariates,23,PhysicalActivity,0.006193191581664398
+167,GenMetS + covariates,23,Sleephour,0.0017087158843598958
+168,GenMetS + covariates,24,Age,0.38759747376311493
+169,GenMetS + covariates,24,GenMetS,0.13302979066449697
+170,GenMetS + covariates,24,Education,0.03418524641564321
+171,GenMetS + covariates,24,SocialEconomicalStatus,0.02660562589125173
+172,GenMetS + covariates,24,PhysicalActivity,0.02532552506227942
+173,GenMetS + covariates,24,Sleephour,0.018523471798057918
+174,GenMetS + covariates,24,TVhour,0.0
+175,GenMetS + covariates,25,Age,0.3493914148405893
+176,GenMetS + covariates,25,GenMetS,0.11612659703176124
+177,GenMetS + covariates,25,SocialEconomicalStatus,0.02688012091808574
+178,GenMetS + covariates,25,TVhour,0.012503553458868907
+179,GenMetS + covariates,25,PhysicalActivity,0.006876873643034035
+180,GenMetS + covariates,25,Education,0.0029828265733602964
+181,GenMetS + covariates,25,Sleephour,0.0
+182,GenMetS + covariates,26,Age,0.28275417807794606
+183,GenMetS + covariates,26,GenMetS,0.17665056961355832
+184,GenMetS + covariates,26,SocialEconomicalStatus,0.08001682842398683
+185,GenMetS + covariates,26,Education,0.0586424809085686
+186,GenMetS + covariates,26,TVhour,0.037287631204262324
+187,GenMetS + covariates,26,Sleephour,0.025217302569727127
+188,GenMetS + covariates,26,PhysicalActivity,0.0142192143097162
+189,GenMetS + covariates,27,Age,0.29582871986962694
+190,GenMetS + covariates,27,GenMetS,0.13472049386559612
+191,GenMetS + covariates,27,SocialEconomicalStatus,0.0730560336530174
+192,GenMetS + covariates,27,PhysicalActivity,0.019593950115213185
+193,GenMetS + covariates,27,TVhour,0.0
+194,GenMetS + covariates,27,Sleephour,0.0
+195,GenMetS + covariates,27,Education,0.0
+196,GenMetS + covariates,28,Age,0.4981259103182839
+197,GenMetS + covariates,28,GenMetS,0.22313751834472292
+198,GenMetS + covariates,28,Education,0.12229287043589826
+199,GenMetS + covariates,28,SocialEconomicalStatus,0.08314778209698423
+200,GenMetS + covariates,28,PhysicalActivity,0.08198522869926975
+201,GenMetS + covariates,28,TVhour,0.07422300616017097
+202,GenMetS + covariates,28,Sleephour,0.0
+203,GenMetS + covariates,29,Age,0.37097719360015324
+204,GenMetS + covariates,29,GenMetS,0.15616886533862318
+205,GenMetS + covariates,29,Education,0.1460544674813713
+206,GenMetS + covariates,29,SocialEconomicalStatus,0.10786244760722748
+207,GenMetS + covariates,29,TVhour,0.07831800819867882
+208,GenMetS + covariates,29,PhysicalActivity,0.036062933566359194
+209,GenMetS + covariates,29,Sleephour,0.0
+210,GenMetS + covariates,30,Age,0.4738136835487356
+211,GenMetS + covariates,30,GenMetS,0.15977166150151592
+212,GenMetS + covariates,30,SocialEconomicalStatus,0.1371121824808695
+213,GenMetS + covariates,30,TVhour,0.06885435935109854
+214,GenMetS + covariates,30,Sleephour,0.0
+215,GenMetS + covariates,30,PhysicalActivity,0.0
+216,GenMetS + covariates,30,Education,0.0
+217,GenMetS + covariates,31,Age,0.5441295473770482
+218,GenMetS + covariates,31,GenMetS,0.20569533812589247
+219,GenMetS + covariates,31,SocialEconomicalStatus,0.13261358622592637
+220,GenMetS + covariates,31,Education,0.05434196483568041
+221,GenMetS + covariates,31,PhysicalActivity,0.05401549705435285
+222,GenMetS + covariates,31,TVhour,0.007528045451475507
+223,GenMetS + covariates,31,Sleephour,0.0
+224,GenMetS + covariates,32,Age,0.23015067343807913
+225,GenMetS + covariates,32,GenMetS,0.15114811831863634
+226,GenMetS + covariates,32,SocialEconomicalStatus,0.07049208992496306
+227,GenMetS + covariates,32,Education,0.007470016145768265
+228,GenMetS + covariates,32,TVhour,0.006746282176769984
+229,GenMetS + covariates,32,PhysicalActivity,0.005100826681212146
+230,GenMetS + covariates,32,Sleephour,0.0
+231,GenMetS + covariates,33,Age,0.2021239172364411
+232,GenMetS + covariates,33,GenMetS,0.10960909016551104
+233,GenMetS + covariates,33,Education,0.07168845392046151
+234,GenMetS + covariates,33,TVhour,0.04671956784095334
+235,GenMetS + covariates,33,SocialEconomicalStatus,0.04049271648204712
+236,GenMetS + covariates,33,Sleephour,0.0
+237,GenMetS + covariates,33,PhysicalActivity,0.0
+238,GenMetS + covariates,34,Age,0.31331543793811684
+239,GenMetS + covariates,34,GenMetS,0.1257802630708147
+240,GenMetS + covariates,34,SocialEconomicalStatus,0.03648346100587191
+241,GenMetS + covariates,34,Education,0.03362225070791063
+242,GenMetS + covariates,34,PhysicalActivity,0.012581422451711089
+243,GenMetS + covariates,34,Sleephour,0.012082264849691897
+244,GenMetS + covariates,34,TVhour,0.0
+245,GenMetS + covariates,35,Age,0.15206520351879638
+246,GenMetS + covariates,35,GenMetS,0.13537544607662566
+247,GenMetS + covariates,35,TVhour,0.06084404714554717
+248,GenMetS + covariates,35,SocialEconomicalStatus,0.053815943888630015
+249,GenMetS + covariates,35,Education,0.005919129500510516
+250,GenMetS + covariates,35,PhysicalActivity,0.0039308045240533055
+251,GenMetS + covariates,35,Sleephour,0.0
+252,GenMetS + covariates,36,Age,0.16981108179043422
+253,GenMetS + covariates,36,SocialEconomicalStatus,0.08549478284458427
+254,GenMetS + covariates,36,TVhour,0.06363374229582647
+255,GenMetS + covariates,36,GenMetS,0.037311960243723456
+256,GenMetS + covariates,36,Education,0.010703426647034513
+257,GenMetS + covariates,36,Sleephour,0.00620331087341118
+258,GenMetS + covariates,36,PhysicalActivity,0.002799490524766347
+259,GenMetS + covariates,37,Age,0.22214869731543946
+260,GenMetS + covariates,37,GenMetS,0.07756966592340418
+261,GenMetS + covariates,37,TVhour,0.06110543422004275
+262,GenMetS + covariates,37,SocialEconomicalStatus,0.023122321661285774
+263,GenMetS + covariates,37,Education,0.020004942789277128
+264,GenMetS + covariates,37,PhysicalActivity,0.01044590618892538
+265,GenMetS + covariates,37,Sleephour,0.0014202847684112706
+266,GenMetS + covariates,38,Age,0.514466646176797
+267,GenMetS + covariates,38,GenMetS,0.2600131516388997
+268,GenMetS + covariates,38,SocialEconomicalStatus,0.13713319460771703
+269,GenMetS + covariates,38,Education,0.09998109097506298
+270,GenMetS + covariates,38,TVhour,0.05866788129956911
+271,GenMetS + covariates,38,PhysicalActivity,0.04065961718124649
+272,GenMetS + covariates,38,Sleephour,0.030949303484763258
+273,GenMetS + covariates,39,Age,0.29840154850795947
+274,GenMetS + covariates,39,GenMetS,0.13352499419875025
+275,GenMetS + covariates,39,SocialEconomicalStatus,0.027872215411539607
+276,GenMetS + covariates,39,TVhour,0.016423332960206875
+277,GenMetS + covariates,39,Education,0.016351674807309678
+278,GenMetS + covariates,39,PhysicalActivity,0.005560646271126134
+279,GenMetS + covariates,39,Sleephour,0.003876153142881343
+280,GenMetS + covariates,40,Age,0.07420563832311723
+281,GenMetS + covariates,40,SocialEconomicalStatus,0.040623335550263234
+282,GenMetS + covariates,40,GenMetS,0.029828769931293703
+283,GenMetS + covariates,40,PhysicalActivity,0.016729280860421965
+284,GenMetS + covariates,40,TVhour,0.014667454023328082
+285,GenMetS + covariates,40,Education,0.003027656235249227
+286,GenMetS + covariates,40,Sleephour,0.002439980977214873
+287,GenMetS + covariates,41,Age,0.3851921771128309
+288,GenMetS + covariates,41,GenMetS,0.08220484131686732
+289,GenMetS + covariates,41,SocialEconomicalStatus,0.02384393554305038
+290,GenMetS + covariates,41,PhysicalActivity,0.003930090882091054
+291,GenMetS + covariates,41,TVhour,0.0
+292,GenMetS + covariates,41,Sleephour,0.0
+293,GenMetS + covariates,41,Education,0.0
+294,GenMetS + covariates,42,Age,0.068977493482685
+295,GenMetS + covariates,42,SocialEconomicalStatus,0.05684230152107086
+296,GenMetS + covariates,42,GenMetS,0.030513386496704948
+297,GenMetS + covariates,42,PhysicalActivity,0.029527014453145137
+298,GenMetS + covariates,42,Education,0.026651758928886715
+299,GenMetS + covariates,42,TVhour,0.007426494415849439
+300,GenMetS + covariates,42,Sleephour,0.00654208473240336
+301,GenMetS + covariates,43,Age,0.29099580901074773
+302,GenMetS + covariates,43,GenMetS,0.1493011846167073
+303,GenMetS + covariates,43,Education,0.08566712557717605
+304,GenMetS + covariates,43,TVhour,0.059433861002325915
+305,GenMetS + covariates,43,PhysicalActivity,0.05438919186647299
+306,GenMetS + covariates,43,SocialEconomicalStatus,0.03710957258732787
+307,GenMetS + covariates,43,Sleephour,0.011904663741864519
+308,GenMetS + covariates,44,Age,0.3320698763763262
+309,GenMetS + covariates,44,GenMetS,0.08046390673550947
+310,GenMetS + covariates,44,SocialEconomicalStatus,0.04324752325195542
+311,GenMetS + covariates,44,Education,0.007517260359525813
+312,GenMetS + covariates,44,TVhour,0.0
+313,GenMetS + covariates,44,Sleephour,0.0
+314,GenMetS + covariates,44,PhysicalActivity,0.0
+315,GenMetS + covariates,45,Age,0.35569778607141095
+316,GenMetS + covariates,45,SocialEconomicalStatus,0.07480752279080502
+317,GenMetS + covariates,45,GenMetS,0.06781082634070316
+318,GenMetS + covariates,45,PhysicalActivity,0.04341299112404042
+319,GenMetS + covariates,45,Education,0.03835949029766791
+320,GenMetS + covariates,45,Sleephour,0.03169546095105278
+321,GenMetS + covariates,45,TVhour,0.012041839786617653
+322,GenMetS + covariates,46,Age,0.41881942019725404
+323,GenMetS + covariates,46,SocialEconomicalStatus,0.1738219693998236
+324,GenMetS + covariates,46,GenMetS,0.16018065893115394
+325,GenMetS + covariates,46,Education,0.15113319603643485
+326,GenMetS + covariates,46,TVhour,0.12902098256046018
+327,GenMetS + covariates,46,PhysicalActivity,0.042556107258148214
+328,GenMetS + covariates,46,Sleephour,0.0
+329,GenMetS + covariates,47,Age,0.2990634475327355
+330,GenMetS + covariates,47,GenMetS,0.1136534494332521
+331,GenMetS + covariates,47,SocialEconomicalStatus,0.017930501971980234
+332,GenMetS + covariates,47,PhysicalActivity,0.017481152184031616
+333,GenMetS + covariates,47,Education,0.014624267878804217
+334,GenMetS + covariates,47,TVhour,0.0
+335,GenMetS + covariates,47,Sleephour,0.0
+336,GenMetS + covariates,48,Age,0.29139750572017187
+337,GenMetS + covariates,48,GenMetS,0.12046283172540102
+338,GenMetS + covariates,48,SocialEconomicalStatus,0.09152628769470306
+339,GenMetS + covariates,48,Sleephour,0.006572888379571619
+340,GenMetS + covariates,48,TVhour,0.00604329288654305
+341,GenMetS + covariates,48,Education,0.0055427540302690525
+342,GenMetS + covariates,48,PhysicalActivity,0.0031700223448375936
+343,GenMetS + covariates,49,Age,0.34764077060114346
+344,GenMetS + covariates,49,GenMetS,0.06110302940702609
+345,GenMetS + covariates,49,SocialEconomicalStatus,0.04157615959963393
+346,GenMetS + covariates,49,Education,0.018879378361627445
+347,GenMetS + covariates,49,PhysicalActivity,0.007065338541822569
+348,GenMetS + covariates,49,TVhour,0.0
+349,GenMetS + covariates,49,Sleephour,0.0
+350,GenMetS + covariates,50,Age,0.4739462859190449
+351,GenMetS + covariates,50,GenMetS,0.18762508269458053
+352,GenMetS + covariates,50,TVhour,0.14516977788612292
+353,GenMetS + covariates,50,SocialEconomicalStatus,0.10843539013575625
+354,GenMetS + covariates,50,Education,0.09185580196619661
+355,GenMetS + covariates,50,PhysicalActivity,0.05660547230765221
+356,GenMetS + covariates,50,Sleephour,0.01759806953484399
+357,GenMetS + covariates,51,Age,0.31677352900444344
+358,GenMetS + covariates,51,GenMetS,0.10916587695893314
+359,GenMetS + covariates,51,SocialEconomicalStatus,0.08613192701774335
+360,GenMetS + covariates,51,PhysicalActivity,0.05510757595328275
+361,GenMetS + covariates,51,Education,0.049448188767664956
+362,GenMetS + covariates,51,TVhour,0.041288300071601454
+363,GenMetS + covariates,51,Sleephour,0.002273627592457674
+364,GenMetS + covariates,52,Age,0.39055501193638914
+365,GenMetS + covariates,52,SocialEconomicalStatus,0.09092879554768593
+366,GenMetS + covariates,52,GenMetS,0.07457066032841059
+367,GenMetS + covariates,52,TVhour,0.03679579397019309
+368,GenMetS + covariates,52,Education,0.021061695456263373
+369,GenMetS + covariates,52,PhysicalActivity,0.013609872553734696
+370,GenMetS + covariates,52,Sleephour,0.007752654207447825
+371,GenMetS + covariates,53,Age,0.2810522510591655
+372,GenMetS + covariates,53,GenMetS,0.15751670871407697
+373,GenMetS + covariates,53,TVhour,0.014813021130092372
+374,GenMetS + covariates,53,SocialEconomicalStatus,0.014402001819676815
+375,GenMetS + covariates,53,Education,0.00623936420542843
+376,GenMetS + covariates,53,PhysicalActivity,0.0007406343264436268
+377,GenMetS + covariates,53,Sleephour,0.0
+378,GenMetS + covariates,54,Age,0.596923333267164
+379,GenMetS + covariates,54,GenMetS,0.18618819981758247
+380,GenMetS + covariates,54,SocialEconomicalStatus,0.1407438883756597
+381,GenMetS + covariates,54,TVhour,0.12193956272952548
+382,GenMetS + covariates,54,Sleephour,0.10604618409345001
+383,GenMetS + covariates,54,Education,0.04653031651206592
+384,GenMetS + covariates,54,PhysicalActivity,0.021884425357674007
+385,GenMetS + covariates,55,Age,0.16185165278919697
+386,GenMetS + covariates,55,GenMetS,0.06400346429159658
+387,GenMetS + covariates,55,Education,0.045754688345637444
+388,GenMetS + covariates,55,TVhour,0.03293952466157714
+389,GenMetS + covariates,55,SocialEconomicalStatus,0.014926362750292936
+390,GenMetS + covariates,55,PhysicalActivity,0.008919173384016314
+391,GenMetS + covariates,55,Sleephour,0.005230336286403517
+392,GenMetS + covariates,56,Age,0.4193110847234578
+393,GenMetS + covariates,56,GenMetS,0.12620929119012458
+394,GenMetS + covariates,56,SocialEconomicalStatus,0.08842982890378012
+395,GenMetS + covariates,56,Education,0.018491523095889504
+396,GenMetS + covariates,56,PhysicalActivity,0.010685083511656292
+397,GenMetS + covariates,56,Sleephour,0.009338439482100369
+398,GenMetS + covariates,56,TVhour,0.0031543743598654284
+399,GenMetS + covariates,57,Age,0.3246890607494512
+400,GenMetS + covariates,57,GenMetS,0.1018326954324903
+401,GenMetS + covariates,57,SocialEconomicalStatus,0.08945852067287051
+402,GenMetS + covariates,57,TVhour,0.07588053656631606
+403,GenMetS + covariates,57,PhysicalActivity,0.022400135788928577
+404,GenMetS + covariates,57,Sleephour,0.002112416147633829
+405,GenMetS + covariates,57,Education,0.0
+406,GenMetS + covariates,58,Age,0.2357556345737216
+407,GenMetS + covariates,58,GenMetS,0.11224199532924001
+408,GenMetS + covariates,58,SocialEconomicalStatus,0.07555907870144841
+409,GenMetS + covariates,58,PhysicalActivity,0.04226942791575049
+410,GenMetS + covariates,58,Education,0.02301294283821955
+411,GenMetS + covariates,58,TVhour,0.005940803938907471
+412,GenMetS + covariates,58,Sleephour,0.003723215172964113
+413,GenMetS + covariates,59,Age,0.27760752509141573
+414,GenMetS + covariates,59,SocialEconomicalStatus,0.1444895135356497
+415,GenMetS + covariates,59,GenMetS,0.12631060137716987
+416,GenMetS + covariates,59,TVhour,0.050481788017222244
+417,GenMetS + covariates,59,Education,0.015458442013141607
+418,GenMetS + covariates,59,PhysicalActivity,0.005054532947932821
+419,GenMetS + covariates,59,Sleephour,0.004638996313843463
+420,GenMetS + covariates,60,Age,0.40782175924463343
+421,GenMetS + covariates,60,GenMetS,0.25647571415509407
+422,GenMetS + covariates,60,TVhour,0.10963004313409326
+423,GenMetS + covariates,60,SocialEconomicalStatus,0.0663252091932076
+424,GenMetS + covariates,60,Education,0.040983931454243505
+425,GenMetS + covariates,60,Sleephour,0.0
+426,GenMetS + covariates,60,PhysicalActivity,0.0
+427,GenMetS + covariates,61,Age,0.2042256828573816
+428,GenMetS + covariates,61,GenMetS,0.06317236476570914
+429,GenMetS + covariates,61,TVhour,0.02440679310382929
+430,GenMetS + covariates,61,Education,0.01883463954318453
+431,GenMetS + covariates,61,PhysicalActivity,0.011817095447814575
+432,GenMetS + covariates,61,SocialEconomicalStatus,0.00717699399852643
+433,GenMetS + covariates,61,Sleephour,0.0
+434,GenMetS + covariates,62,Age,0.4909330280759132
+435,GenMetS + covariates,62,GenMetS,0.20485712437828382
+436,GenMetS + covariates,62,SocialEconomicalStatus,0.12181270540015846
+437,GenMetS + covariates,62,TVhour,0.09960337107035293
+438,GenMetS + covariates,62,Education,0.08924501042243917
+439,GenMetS + covariates,62,PhysicalActivity,0.04755035724932397
+440,GenMetS + covariates,62,Sleephour,0.0
+441,GenMetS + covariates,63,Age,0.28762268357093596
+442,GenMetS + covariates,63,GenMetS,0.1147541845628163
+443,GenMetS + covariates,63,SocialEconomicalStatus,0.04334987668496457
+444,GenMetS + covariates,63,TVhour,0.04077615633160222
+445,GenMetS + covariates,63,Education,0.02090918563509844
+446,GenMetS + covariates,63,Sleephour,0.007482801201718839
+447,GenMetS + covariates,63,PhysicalActivity,0.005010975300541363
+448,GenMetS + covariates,64,Age,0.2177877099456016
+449,GenMetS + covariates,64,GenMetS,0.10873530466085367
+450,GenMetS + covariates,64,SocialEconomicalStatus,0.06869020651646511
+451,GenMetS + covariates,64,Education,0.06182149379269688
+452,GenMetS + covariates,64,TVhour,0.03727136957231495
+453,GenMetS + covariates,64,PhysicalActivity,0.013646378271212721
+454,GenMetS + covariates,64,Sleephour,0.006763978949541028
+455,GenMetS + covariates,65,Age,0.4758446201426841
+456,GenMetS + covariates,65,GenMetS,0.2012710027594671
+457,GenMetS + covariates,65,Education,0.13433926907188642
+458,GenMetS + covariates,65,SocialEconomicalStatus,0.10738513507597419
+459,GenMetS + covariates,65,TVhour,0.09863955455052631
+460,GenMetS + covariates,65,PhysicalActivity,0.023918587966235694
+461,GenMetS + covariates,65,Sleephour,0.009390731381045438
+462,GenMetS + covariates,66,Age,0.5120553444152077
+463,GenMetS + covariates,66,SocialEconomicalStatus,0.22692015044170397
+464,GenMetS + covariates,66,GenMetS,0.1211056010052562
+465,GenMetS + covariates,66,Education,0.07189547783843482
+466,GenMetS + covariates,66,PhysicalActivity,0.05627421456589192
+467,GenMetS + covariates,66,TVhour,0.05278206990169433
+468,GenMetS + covariates,66,Sleephour,0.0
+469,GenMetS + covariates,67,Age,0.1737158166767502
+470,GenMetS + covariates,67,GenMetS,0.07473448754352065
+471,GenMetS + covariates,67,SocialEconomicalStatus,0.055158765554945484
+472,GenMetS + covariates,67,Education,0.04178302163204731
+473,GenMetS + covariates,67,PhysicalActivity,0.02043592957659901
+474,GenMetS + covariates,67,TVhour,0.017867609012458065
+475,GenMetS + covariates,67,Sleephour,0.004281610648044282
+476,GenMetS + covariates,68,Age,0.33789420026189776
+477,GenMetS + covariates,68,GenMetS,0.17793252544900146
+478,GenMetS + covariates,68,PhysicalActivity,0.015370066739239345
+479,GenMetS + covariates,68,TVhour,0.0
+480,GenMetS + covariates,68,Sleephour,0.0
+481,GenMetS + covariates,68,SocialEconomicalStatus,0.0
+482,GenMetS + covariates,68,Education,0.0
+483,GenMetS + covariates,69,Age,0.5975214379337376
+484,GenMetS + covariates,69,GenMetS,0.1607964049185868
+485,GenMetS + covariates,69,SocialEconomicalStatus,0.04485647116435894
+486,GenMetS + covariates,69,TVhour,0.01119940412541229
+487,GenMetS + covariates,69,Sleephour,0.0
+488,GenMetS + covariates,69,PhysicalActivity,0.0
+489,GenMetS + covariates,69,Education,0.0
+490,GenMetS + covariates,70,Age,0.36822977815264923
+491,GenMetS + covariates,70,GenMetS,0.14275208448535867
+492,GenMetS + covariates,70,SocialEconomicalStatus,0.13969437461084233
+493,GenMetS + covariates,70,Education,0.05158053292271983
+494,GenMetS + covariates,70,PhysicalActivity,0.013385214093865616
+495,GenMetS + covariates,70,TVhour,0.0
+496,GenMetS + covariates,70,Sleephour,0.0
+497,GenMetS + covariates,71,Age,0.5110914350324135
+498,GenMetS + covariates,71,GenMetS,0.2543663092869574
+499,GenMetS + covariates,71,TVhour,0.08184489114361776
+500,GenMetS + covariates,71,SocialEconomicalStatus,0.08039444594519829
+501,GenMetS + covariates,71,Education,0.06043556040359877
+502,GenMetS + covariates,71,Sleephour,0.04214721145453275
+503,GenMetS + covariates,71,PhysicalActivity,0.013200399038519868
+504,GenMetS + covariates,72,Age,0.41701742688907933
+505,GenMetS + covariates,72,GenMetS,0.1658974411013726
+506,GenMetS + covariates,72,SocialEconomicalStatus,0.061728360984439935
+507,GenMetS + covariates,72,Education,0.03856782199839924
+508,GenMetS + covariates,72,PhysicalActivity,0.0051461425545987535
+509,GenMetS + covariates,72,TVhour,0.005010751357198593
+510,GenMetS + covariates,72,Sleephour,0.00295012867566267
+511,GenMetS + covariates,73,Age,0.4067386056828416
+512,GenMetS + covariates,73,GenMetS,0.1655798457106231
+513,GenMetS + covariates,73,TVhour,0.15271375214774147
+514,GenMetS + covariates,73,SocialEconomicalStatus,0.04788459784613438
+515,GenMetS + covariates,73,PhysicalActivity,0.01299970301820174
+516,GenMetS + covariates,73,Education,0.008697892344108341
+517,GenMetS + covariates,73,Sleephour,0.0
+518,GenMetS + covariates,74,Age,0.35411721837349625
+519,GenMetS + covariates,74,GenMetS,0.13924621613367236
+520,GenMetS + covariates,74,SocialEconomicalStatus,0.09495672024162571
+521,GenMetS + covariates,74,Education,0.02273425841155998
+522,GenMetS + covariates,74,Sleephour,0.021833610163954135
+523,GenMetS + covariates,74,TVhour,0.015260771853245652
+524,GenMetS + covariates,74,PhysicalActivity,0.007545030657408962
+525,GenMetS + covariates,75,Age,0.5069040420688689
+526,GenMetS + covariates,75,GenMetS,0.24428095440311295
+527,GenMetS + covariates,75,SocialEconomicalStatus,0.17255898320233373
+528,GenMetS + covariates,75,Education,0.1413113243417745
+529,GenMetS + covariates,75,TVhour,0.11474201090833938
+530,GenMetS + covariates,75,PhysicalActivity,0.06984533638827918
+531,GenMetS + covariates,75,Sleephour,0.005279847144528657
+532,GenMetS + covariates,76,Age,0.41494327483354676
+533,GenMetS + covariates,76,GenMetS,0.11302416461848444
+534,GenMetS + covariates,76,SocialEconomicalStatus,0.035419940648337464
+535,GenMetS + covariates,76,TVhour,0.008033052077956699
+536,GenMetS + covariates,76,Education,0.0037660285934667903
+537,GenMetS + covariates,76,PhysicalActivity,0.0020986277571862053
+538,GenMetS + covariates,76,Sleephour,0.0004256040616374873
+539,GenMetS + covariates,77,Age,0.5650122512771091
+540,GenMetS + covariates,77,GenMetS,0.29512476548797417
+541,GenMetS + covariates,77,SocialEconomicalStatus,0.11545594071093261
+542,GenMetS + covariates,77,PhysicalActivity,0.11200911759643782
+543,GenMetS + covariates,77,Education,0.049089916726367346
+544,GenMetS + covariates,77,TVhour,0.04618703347382447
+545,GenMetS + covariates,77,Sleephour,0.030889309862421596
+546,GenMetS + covariates,78,Age,0.2614481859582842
+547,GenMetS + covariates,78,GenMetS,0.17025291958549577
+548,GenMetS + covariates,78,SocialEconomicalStatus,0.05607110675430807
+549,GenMetS + covariates,78,PhysicalActivity,0.05492285818153458
+550,GenMetS + covariates,78,Education,0.0497476874683074
+551,GenMetS + covariates,78,TVhour,0.010230348194112858
+552,GenMetS + covariates,78,Sleephour,0.004357823590782504
+553,GenMetS + covariates,79,Age,0.259540758411883
+554,GenMetS + covariates,79,GenMetS,0.07053666739784938
+555,GenMetS + covariates,79,SocialEconomicalStatus,0.0631781624428911
+556,GenMetS + covariates,79,PhysicalActivity,0.019379718458331717
+557,GenMetS + covariates,79,TVhour,0.017901771140612522
+558,GenMetS + covariates,79,Education,0.0063508889091856546
+559,GenMetS + covariates,79,Sleephour,0.0
+560,GenMetS + covariates,80,Age,0.47861699198296764
+561,GenMetS + covariates,80,GenMetS,0.18217853284958335
+562,GenMetS + covariates,80,SocialEconomicalStatus,0.16099512516783052
+563,GenMetS + covariates,80,TVhour,0.12978505401954882
+564,GenMetS + covariates,80,Education,0.11318485190546909
+565,GenMetS + covariates,80,PhysicalActivity,0.06316764429339242
+566,GenMetS + covariates,80,Sleephour,0.0
+567,GenMetS + covariates,81,Age,0.36511945793622474
+568,GenMetS + covariates,81,GenMetS,0.09652946293968014
+569,GenMetS + covariates,81,SocialEconomicalStatus,0.015212790186827382
+570,GenMetS + covariates,81,PhysicalActivity,0.01378047622253913
+571,GenMetS + covariates,81,TVhour,0.0
+572,GenMetS + covariates,81,Sleephour,0.0
+573,GenMetS + covariates,81,Education,0.0
+574,GenMetS + covariates,82,Age,0.40002324401504336
+575,GenMetS + covariates,82,GenMetS,0.11813537405155297
+576,GenMetS + covariates,82,SocialEconomicalStatus,0.09963177529087769
+577,GenMetS + covariates,82,Education,0.06342950270628488
+578,GenMetS + covariates,82,TVhour,0.04938390276194718
+579,GenMetS + covariates,82,PhysicalActivity,0.011131102870873833
+580,GenMetS + covariates,82,Sleephour,0.0
+581,GenMetS + covariates,83,Age,0.30631233915717443
+582,GenMetS + covariates,83,GenMetS,0.16025569034335468
+583,GenMetS + covariates,83,SocialEconomicalStatus,0.07552913640372899
+584,GenMetS + covariates,83,TVhour,0.03837606704429105
+585,GenMetS + covariates,83,Education,0.01646695535572643
+586,GenMetS + covariates,83,PhysicalActivity,0.015038640061149772
+587,GenMetS + covariates,83,Sleephour,0.008589022057631087
+588,GenMetS + covariates,84,Age,0.4515786256186569
+589,GenMetS + covariates,84,GenMetS,0.2290751398443783
+590,GenMetS + covariates,84,SocialEconomicalStatus,0.14431989796942582
+591,GenMetS + covariates,84,TVhour,0.09112899485092471
+592,GenMetS + covariates,84,Sleephour,0.05835572571138401
+593,GenMetS + covariates,84,PhysicalActivity,0.049918960481330196
+594,GenMetS + covariates,84,Education,0.043186928454208774
+595,GenMetS + covariates,85,Age,0.4071639859684553
+596,GenMetS + covariates,85,GenMetS,0.12300301026102779
+597,GenMetS + covariates,85,SocialEconomicalStatus,0.12053273618722729
+598,GenMetS + covariates,85,PhysicalActivity,0.012320566303743462
+599,GenMetS + covariates,85,Sleephour,0.010951435373733852
+600,GenMetS + covariates,85,TVhour,0.007926458062310878
+601,GenMetS + covariates,85,Education,0.004473238958373527
+602,GenMetS + covariates,86,Age,0.4490979002264363
+603,GenMetS + covariates,86,GenMetS,0.37361518119641207
+604,GenMetS + covariates,86,SocialEconomicalStatus,0.18252255835770453
+605,GenMetS + covariates,86,TVhour,0.12295457533139877
+606,GenMetS + covariates,86,Education,0.08727347704492237
+607,GenMetS + covariates,86,PhysicalActivity,0.06508212265151521
+608,GenMetS + covariates,86,Sleephour,0.025100811244299023
+609,GenMetS + covariates,87,Age,0.40247993161786266
+610,GenMetS + covariates,87,SocialEconomicalStatus,0.07728242423342256
+611,GenMetS + covariates,87,GenMetS,0.027263712591715856
+612,GenMetS + covariates,87,Education,0.013918369856525078
+613,GenMetS + covariates,87,TVhour,0.0
+614,GenMetS + covariates,87,Sleephour,0.0
+615,GenMetS + covariates,87,PhysicalActivity,0.0
+616,GenMetS + covariates,88,Age,0.23749041835329046
+617,GenMetS + covariates,88,GenMetS,0.18541083572501385
+618,GenMetS + covariates,88,Education,0.07016279403741163
+619,GenMetS + covariates,88,SocialEconomicalStatus,0.05457265277358669
+620,GenMetS + covariates,88,PhysicalActivity,0.006836296310027429
+621,GenMetS + covariates,88,TVhour,0.0
+622,GenMetS + covariates,88,Sleephour,0.0
+623,GenMetS + covariates,89,Age,0.2791430396772748
+624,GenMetS + covariates,89,GenMetS,0.15473623276501466
+625,GenMetS + covariates,89,SocialEconomicalStatus,0.05978944739034933
+626,GenMetS + covariates,89,TVhour,0.05208372707332324
+627,GenMetS + covariates,89,Education,0.04084992459124489
+628,GenMetS + covariates,89,PhysicalActivity,0.018149335666138168
+629,GenMetS + covariates,89,Sleephour,0.0020378217677309834
+630,GenMetS + covariates,90,Age,0.44265841207589685
+631,GenMetS + covariates,90,SocialEconomicalStatus,0.0901015442209857
+632,GenMetS + covariates,90,GenMetS,0.07417655650777219
+633,GenMetS + covariates,90,TVhour,0.04895543017965165
+634,GenMetS + covariates,90,PhysicalActivity,0.016103115148212836
+635,GenMetS + covariates,90,Education,0.013035451354122625
+636,GenMetS + covariates,90,Sleephour,0.004307767145387412
+637,GenMetS + covariates,91,Age,0.42570384252840593
+638,GenMetS + covariates,91,GenMetS,0.25511576309634576
+639,GenMetS + covariates,91,SocialEconomicalStatus,0.1616477557092007
+640,GenMetS + covariates,91,Education,0.11701428954827571
+641,GenMetS + covariates,91,TVhour,0.07231226014897779
+642,GenMetS + covariates,91,Sleephour,0.04858001628649182
+643,GenMetS + covariates,91,PhysicalActivity,0.03129186592899541
+644,GenMetS + covariates,92,Age,0.3506928282512989
+645,GenMetS + covariates,92,GenMetS,0.10263604184939458
+646,GenMetS + covariates,92,SocialEconomicalStatus,0.09170255118825568
+647,GenMetS + covariates,92,PhysicalActivity,0.007782522908912073
+648,GenMetS + covariates,92,Education,0.0004245815241053967
+649,GenMetS + covariates,92,TVhour,0.0
+650,GenMetS + covariates,92,Sleephour,0.0
+651,GenMetS + covariates,93,Age,0.25545181744891504
+652,GenMetS + covariates,93,GenMetS,0.13279858870357616
+653,GenMetS + covariates,93,SocialEconomicalStatus,0.05387555202310559
+654,GenMetS + covariates,93,TVhour,0.009434999166022024
+655,GenMetS + covariates,93,Education,0.00817186015944376
+656,GenMetS + covariates,93,Sleephour,0.007435757100064729
+657,GenMetS + covariates,93,PhysicalActivity,0.0034832171164108066
+658,GenMetS + covariates,94,Age,0.3414098877220625
+659,GenMetS + covariates,94,GenMetS,0.1217871511234186
+660,GenMetS + covariates,94,SocialEconomicalStatus,0.08287757843635175
+661,GenMetS + covariates,94,TVhour,0.07811784641077975
+662,GenMetS + covariates,94,PhysicalActivity,0.014010790964295338
+663,GenMetS + covariates,94,Education,0.007453464677729818
+664,GenMetS + covariates,94,Sleephour,0.0
+665,GenMetS + covariates,95,Age,0.5616115580479858
+666,GenMetS + covariates,95,GenMetS,0.19872235177816072
+667,GenMetS + covariates,95,PhysicalActivity,0.10627645028361847
+668,GenMetS + covariates,95,SocialEconomicalStatus,0.08103035118458443
+669,GenMetS + covariates,95,Education,0.07630023161887577
+670,GenMetS + covariates,95,TVhour,0.0678033689129408
+671,GenMetS + covariates,95,Sleephour,0.009921068899057514
+672,GenMetS + covariates,96,Age,0.4411333402942661
+673,GenMetS + covariates,96,GenMetS,0.15160433020856648
+674,GenMetS + covariates,96,SocialEconomicalStatus,0.07079204860371022
+675,GenMetS + covariates,96,TVhour,0.03800925005958592
+676,GenMetS + covariates,96,PhysicalActivity,0.016280762265332857
+677,GenMetS + covariates,96,Sleephour,0.0
+678,GenMetS + covariates,96,Education,0.0
+679,GenMetS + covariates,97,Age,0.3274943889524633
+680,GenMetS + covariates,97,SocialEconomicalStatus,0.17388652480261277
+681,GenMetS + covariates,97,GenMetS,0.07462786764436818
+682,GenMetS + covariates,97,TVhour,0.061101211401306275
+683,GenMetS + covariates,97,Sleephour,0.006171165525809755
+684,GenMetS + covariates,97,PhysicalActivity,0.0
+685,GenMetS + covariates,97,Education,0.0
+686,GenMetS + covariates,98,Age,0.349807177159446
+687,GenMetS + covariates,98,GenMetS,0.15498064543478435
+688,GenMetS + covariates,98,SocialEconomicalStatus,0.131466086129714
+689,GenMetS + covariates,98,PhysicalActivity,0.04832093199536084
+690,GenMetS + covariates,98,TVhour,0.019089223898628174
+691,GenMetS + covariates,98,Sleephour,0.004606567790335112
+692,GenMetS + covariates,98,Education,0.0038658095144114874
+693,GenMetS + covariates,99,Age,0.3046117599529248
+694,GenMetS + covariates,99,GenMetS,0.233257887016775
+695,GenMetS + covariates,99,SocialEconomicalStatus,0.013107588513374901
+696,GenMetS + covariates,99,PhysicalActivity,0.0050219429419203565
+697,GenMetS + covariates,99,TVhour,0.003960614009760319
+698,GenMetS + covariates,99,Sleephour,0.0
+699,GenMetS + covariates,99,Education,0.0
+700,GenMetS only,0,GenMetS,0.17621935560137755
+701,GenMetS only,1,GenMetS,0.17715850396549193
+702,GenMetS only,2,GenMetS,0.24809919659086258
+703,GenMetS only,3,GenMetS,0.3614805889065826
+704,GenMetS only,4,GenMetS,0.09625705785801013
+705,GenMetS only,5,GenMetS,0.19717776228239142
+706,GenMetS only,6,GenMetS,0.19586751662297128
+707,GenMetS only,7,GenMetS,0.17044354544110873
+708,GenMetS only,8,GenMetS,0.20750994024284322
+709,GenMetS only,9,GenMetS,0.1350286093296966
+710,GenMetS only,10,GenMetS,0.20979901258766445
+711,GenMetS only,11,GenMetS,0.3335126577532264
+712,GenMetS only,12,GenMetS,0.17397987267965256
+713,GenMetS only,13,GenMetS,0.06389943931555306
+714,GenMetS only,14,GenMetS,0.23829672604750982
+715,GenMetS only,15,GenMetS,0.3551226481208232
+716,GenMetS only,16,GenMetS,0.1729463566216054
+717,GenMetS only,17,GenMetS,0.19621317345538627
+718,GenMetS only,18,GenMetS,0.18850716793371575
+719,GenMetS only,19,GenMetS,0.14485879483874198
+720,GenMetS only,20,GenMetS,0.4935683556152164
+721,GenMetS only,21,GenMetS,0.21230230104022976
+722,GenMetS only,22,GenMetS,0.1276137280839461
+723,GenMetS only,23,GenMetS,0.4206782871230885
+724,GenMetS only,24,GenMetS,0.38596026118072096
+725,GenMetS only,25,GenMetS,0.19453707556674876
+726,GenMetS only,26,GenMetS,0.4361731893108054
+727,GenMetS only,27,GenMetS,0.19975065441098477
+728,GenMetS only,28,GenMetS,0.30056382737415666
+729,GenMetS only,29,GenMetS,0.1438807245636428
+730,GenMetS only,30,GenMetS,0.34375711136894227
+731,GenMetS only,31,GenMetS,0.20544698851362422
+732,GenMetS only,32,GenMetS,0.36785355086497
+733,GenMetS only,33,GenMetS,0.2681206573441073
+734,GenMetS only,34,GenMetS,0.3067865089020796
+735,GenMetS only,35,GenMetS,0.520896164164361
+736,GenMetS only,36,GenMetS,0.30379333394241553
+737,GenMetS only,37,GenMetS,0.17848186330533916
+738,GenMetS only,38,GenMetS,0.25068131189710563
+739,GenMetS only,39,GenMetS,0.2428217435755112
+740,GenMetS only,40,GenMetS,0.22808444322949203
+741,GenMetS only,41,GenMetS,0.11641785107773767
+742,GenMetS only,42,GenMetS,0.31399081706741166
+743,GenMetS only,43,GenMetS,0.30865869101150717
+744,GenMetS only,44,GenMetS,0.3157514544785955
+745,GenMetS only,45,GenMetS,0.10555692175471362
+746,GenMetS only,46,GenMetS,0.11580067964615648
+747,GenMetS only,47,GenMetS,0.19843145124365885
+748,GenMetS only,48,GenMetS,0.3454483910116056
+749,GenMetS only,49,GenMetS,0.12299125481672858
+750,GenMetS only,50,GenMetS,0.17989659100833041
+751,GenMetS only,51,GenMetS,0.17649075443021675
+752,GenMetS only,52,GenMetS,0.24735534968116768
+753,GenMetS only,53,GenMetS,0.23011524894681787
+754,GenMetS only,54,GenMetS,0.3468107091976088
+755,GenMetS only,55,GenMetS,0.15557190740577603
+756,GenMetS only,56,GenMetS,0.3317137736980286
+757,GenMetS only,57,GenMetS,0.31239258449779894
+758,GenMetS only,58,GenMetS,0.25599437049041607
+759,GenMetS only,59,GenMetS,0.18288751978696222
+760,GenMetS only,60,GenMetS,0.2785498680785746
+761,GenMetS only,61,GenMetS,0.19527427631725247
+762,GenMetS only,62,GenMetS,0.17364748089964052
+763,GenMetS only,63,GenMetS,0.18013166592339985
+764,GenMetS only,64,GenMetS,0.1901201674785051
+765,GenMetS only,65,GenMetS,0.1907625803158584
+766,GenMetS only,66,GenMetS,0.09506622688251513
+767,GenMetS only,67,GenMetS,0.34931658412447125
+768,GenMetS only,68,GenMetS,0.2747137338661209
+769,GenMetS only,69,GenMetS,0.18074345571133824
+770,GenMetS only,70,GenMetS,0.3908063453925359
+771,GenMetS only,71,GenMetS,0.24365220214247157
+772,GenMetS only,72,GenMetS,0.21573090157023186
+773,GenMetS only,73,GenMetS,0.2119196831845437
+774,GenMetS only,74,GenMetS,0.21787990154182812
+775,GenMetS only,75,GenMetS,0.2325205041814112
+776,GenMetS only,76,GenMetS,0.2884926116208511
+777,GenMetS only,77,GenMetS,0.47976195770778046
+778,GenMetS only,78,GenMetS,0.3646506844295396
+779,GenMetS only,79,GenMetS,0.17859418201087804
+780,GenMetS only,80,GenMetS,0.1632233112272289
+781,GenMetS only,81,GenMetS,0.3091676331626734
+782,GenMetS only,82,GenMetS,0.321498643571235
+783,GenMetS only,83,GenMetS,0.40613499231822786
+784,GenMetS only,84,GenMetS,0.4172001646021727
+785,GenMetS only,85,GenMetS,0.18181364239900613
+786,GenMetS only,86,GenMetS,0.2660493873778334
+787,GenMetS only,87,GenMetS,0.3515451262414593
+788,GenMetS only,88,GenMetS,0.1983225733389802
+789,GenMetS only,89,GenMetS,0.19601042071926514
+790,GenMetS only,90,GenMetS,0.29523146311497245
+791,GenMetS only,91,GenMetS,0.2735866442280649
+792,GenMetS only,92,GenMetS,0.15928712991763044
+793,GenMetS only,93,GenMetS,0.28431287368421476
+794,GenMetS only,94,GenMetS,0.17785703355208454
+795,GenMetS only,95,GenMetS,0.17686298283355104
+796,GenMetS only,96,GenMetS,0.2635909178365987
+797,GenMetS only,97,GenMetS,0.15717256704450552
+798,GenMetS only,98,GenMetS,0.2048395311599252
+799,GenMetS only,99,GenMetS,0.31835760999874524
+800,GenMetS + age,0,Age,0.7211122254290514
+801,GenMetS + age,0,GenMetS,0.24164782106778923
+802,GenMetS + age,1,Age,0.49632790163711266
+803,GenMetS + age,1,GenMetS,0.13038804975372772
+804,GenMetS + age,2,Age,0.38499352416920435
+805,GenMetS + age,2,GenMetS,0.24130079160741072
+806,GenMetS + age,3,Age,0.5701616584988377
+807,GenMetS + age,3,GenMetS,0.24439115422953755
+808,GenMetS + age,4,Age,0.41182577848125773
+809,GenMetS + age,4,GenMetS,0.05084369681037404
+810,GenMetS + age,5,Age,0.38411130160348567
+811,GenMetS + age,5,GenMetS,0.19475171832685106
+812,GenMetS + age,6,Age,0.21363344085150973
+813,GenMetS + age,6,GenMetS,0.1385731977187786
+814,GenMetS + age,7,Age,0.21578995532914988
+815,GenMetS + age,7,GenMetS,0.09912709049849473
+816,GenMetS + age,8,Age,0.4564031136626448
+817,GenMetS + age,8,GenMetS,0.2716952552077254
+818,GenMetS + age,9,Age,0.7268927232916984
+819,GenMetS + age,9,GenMetS,0.18039199897253677
+820,GenMetS + age,10,Age,0.20571433422059118
+821,GenMetS + age,10,GenMetS,0.18838767097103948
+822,GenMetS + age,11,Age,0.4508225975316013
+823,GenMetS + age,11,GenMetS,0.1912838760926215
+824,GenMetS + age,12,Age,0.39347653843319313
+825,GenMetS + age,12,GenMetS,0.11317901310367778
+826,GenMetS + age,13,Age,0.3346416816508086
+827,GenMetS + age,13,GenMetS,0.06222754572659589
+828,GenMetS + age,14,Age,0.36005522994052064
+829,GenMetS + age,14,GenMetS,0.2066218914228354
+830,GenMetS + age,15,Age,0.3084683482141955
+831,GenMetS + age,15,GenMetS,0.173061274298363
+832,GenMetS + age,16,Age,0.6490546846764369
+833,GenMetS + age,16,GenMetS,0.2886127497205446
+834,GenMetS + age,17,Age,0.6206982549249579
+835,GenMetS + age,17,GenMetS,0.3426259385381172
+836,GenMetS + age,18,Age,0.22076393857046428
+837,GenMetS + age,18,GenMetS,0.12859760423258162
+838,GenMetS + age,19,Age,0.54644921254477
+839,GenMetS + age,19,GenMetS,0.13501401471043065
+840,GenMetS + age,20,Age,0.33866234218591384
+841,GenMetS + age,20,GenMetS,0.23420751323530284
+842,GenMetS + age,21,Age,0.2232918451151777
+843,GenMetS + age,21,GenMetS,0.11012188400917139
+844,GenMetS + age,22,Age,0.4828283397370461
+845,GenMetS + age,22,GenMetS,0.2514793238477021
+846,GenMetS + age,23,Age,0.43702134844012325
+847,GenMetS + age,23,GenMetS,0.26764673872374806
+848,GenMetS + age,24,Age,0.5997532067356837
+849,GenMetS + age,24,GenMetS,0.28278059862071153
+850,GenMetS + age,25,Age,0.4485934368340226
+851,GenMetS + age,25,GenMetS,0.15942417682734888
+852,GenMetS + age,26,Age,0.37569283134552317
+853,GenMetS + age,26,GenMetS,0.22432729098638854
+854,GenMetS + age,27,Age,0.5205945714738356
+855,GenMetS + age,27,GenMetS,0.29625977832894723
+856,GenMetS + age,28,Age,0.5242480178487794
+857,GenMetS + age,28,GenMetS,0.30111966078976776
+858,GenMetS + age,29,Age,0.4299671000435398
+859,GenMetS + age,29,GenMetS,0.2434028777656734
+860,GenMetS + age,30,Age,0.24247105227539276
+861,GenMetS + age,30,GenMetS,0.11112711781559134
+862,GenMetS + age,31,Age,0.513709657637471
+863,GenMetS + age,31,GenMetS,0.22559669403738733
+864,GenMetS + age,32,Age,0.25840584066785705
+865,GenMetS + age,32,GenMetS,0.16826523384744194
+866,GenMetS + age,33,Age,0.4612411723733639
+867,GenMetS + age,33,GenMetS,0.24212276169547342
+868,GenMetS + age,34,Age,0.5292785848223227
+869,GenMetS + age,34,GenMetS,0.21721104825170784
+870,GenMetS + age,35,Age,0.4121741005339557
+871,GenMetS + age,35,GenMetS,0.40629363733309315
+872,GenMetS + age,36,Age,0.43791630296491896
+873,GenMetS + age,36,GenMetS,0.13391251137300772
+874,GenMetS + age,37,Age,0.5928276614635073
+875,GenMetS + age,37,GenMetS,0.2982515759248011
+876,GenMetS + age,38,Age,0.5511220985001506
+877,GenMetS + age,38,GenMetS,0.3375007744500569
+878,GenMetS + age,39,Age,0.5004694919594459
+879,GenMetS + age,39,GenMetS,0.3086623363118208
+880,GenMetS + age,40,Age,0.5406237192755501
+881,GenMetS + age,40,GenMetS,0.31393940765438266
+882,GenMetS + age,41,Age,0.4674286684581526
+883,GenMetS + age,41,GenMetS,0.10561412250857663
+884,GenMetS + age,42,Age,0.4112270096623229
+885,GenMetS + age,42,GenMetS,0.2716804485900537
+886,GenMetS + age,43,Age,0.2283113452374794
+887,GenMetS + age,43,GenMetS,0.10086423250918988
+888,GenMetS + age,44,Age,0.35639806084472775
+889,GenMetS + age,44,GenMetS,0.12788104559412133
+890,GenMetS + age,45,Age,0.35840975621346993
+891,GenMetS + age,45,GenMetS,0.0793540094102802
+892,GenMetS + age,46,Age,0.3032862074446209
+893,GenMetS + age,46,GenMetS,0.1187513277268002
+894,GenMetS + age,47,Age,0.5079898966678446
+895,GenMetS + age,47,GenMetS,0.2892698029334898
+896,GenMetS + age,48,Age,0.5562835653694692
+897,GenMetS + age,48,GenMetS,0.2863234271030804
+898,GenMetS + age,49,Age,0.22680963191800532
+899,GenMetS + age,49,GenMetS,0.07742521839895884
+900,GenMetS + age,50,Age,0.6717763267739644
+901,GenMetS + age,50,GenMetS,0.27630529962286926
+902,GenMetS + age,51,Age,0.5572803402832122
+903,GenMetS + age,51,GenMetS,0.26879683701507745
+904,GenMetS + age,52,Age,0.3868741193644106
+905,GenMetS + age,52,GenMetS,0.07883756785389656
+906,GenMetS + age,53,Age,0.18517458943179282
+907,GenMetS + age,53,GenMetS,0.1406670034102474
+908,GenMetS + age,54,Age,0.20857708100077751
+909,GenMetS + age,54,GenMetS,0.09953407668933717
+910,GenMetS + age,55,Age,0.2800648510862333
+911,GenMetS + age,55,GenMetS,0.11882029386309699
+912,GenMetS + age,56,Age,0.6564127969759416
+913,GenMetS + age,56,GenMetS,0.24754058862077402
+914,GenMetS + age,57,Age,0.27920573417426325
+915,GenMetS + age,57,GenMetS,0.08641593134044497
+916,GenMetS + age,58,Age,0.43949106679801614
+917,GenMetS + age,58,GenMetS,0.2620923505254366
+918,GenMetS + age,59,Age,0.2877667494007574
+919,GenMetS + age,59,GenMetS,0.14194307098588568
+920,GenMetS + age,60,Age,0.5815754779380646
+921,GenMetS + age,60,GenMetS,0.3841380269384977
+922,GenMetS + age,61,Age,0.49707972777372733
+923,GenMetS + age,61,GenMetS,0.17879626298018012
+924,GenMetS + age,62,Age,0.588439007920247
+925,GenMetS + age,62,GenMetS,0.2662233453366765
+926,GenMetS + age,63,Age,0.20316357300147708
+927,GenMetS + age,63,GenMetS,0.10978795630360652
+928,GenMetS + age,64,Age,0.24466800875547862
+929,GenMetS + age,64,GenMetS,0.1433358141964784
+930,GenMetS + age,65,Age,0.5976487457200333
+931,GenMetS + age,65,GenMetS,0.30618505690398584
+932,GenMetS + age,66,Age,0.24214800036194942
+933,GenMetS + age,66,GenMetS,0.05417908484678444
+934,GenMetS + age,67,Age,0.4641625415230935
+935,GenMetS + age,67,GenMetS,0.29296380239435343
+936,GenMetS + age,68,Age,0.34730148979921416
+937,GenMetS + age,68,GenMetS,0.1680895417693623
+938,GenMetS + age,69,Age,0.4444319269373729
+939,GenMetS + age,69,GenMetS,0.13424482107783361
+940,GenMetS + age,70,Age,0.3676525495233079
+941,GenMetS + age,70,GenMetS,0.14743290550510094
+942,GenMetS + age,71,Age,0.22596083943235395
+943,GenMetS + age,71,GenMetS,0.12907838972292288
+944,GenMetS + age,72,Age,0.545082680313813
+945,GenMetS + age,72,GenMetS,0.2097531370349502
+946,GenMetS + age,73,Age,0.5347019275835267
+947,GenMetS + age,73,GenMetS,0.29504743134085526
+948,GenMetS + age,74,Age,0.5045609405627126
+949,GenMetS + age,74,GenMetS,0.29149997998594684
+950,GenMetS + age,75,Age,0.5236033573846713
+951,GenMetS + age,75,GenMetS,0.3092561476125069
+952,GenMetS + age,76,Age,0.4040040258522728
+953,GenMetS + age,76,GenMetS,0.11155186900389558
+954,GenMetS + age,77,Age,0.6731713203700364
+955,GenMetS + age,77,GenMetS,0.3901082313100945
+956,GenMetS + age,78,Age,0.39764384513251727
+957,GenMetS + age,78,GenMetS,0.29863872632501565
+958,GenMetS + age,79,Age,0.26886534986269
+959,GenMetS + age,79,GenMetS,0.11396133594067456
+960,GenMetS + age,80,Age,0.22582909956545114
+961,GenMetS + age,80,GenMetS,0.09714565154427393
+962,GenMetS + age,81,Age,0.34281695528045564
+963,GenMetS + age,81,GenMetS,0.12199755216983177
+964,GenMetS + age,82,Age,0.41797310095652945
+965,GenMetS + age,82,GenMetS,0.132900981868169
+966,GenMetS + age,83,Age,0.2976103479467955
+967,GenMetS + age,83,GenMetS,0.14940059267657085
+968,GenMetS + age,84,Age,0.2391965734780317
+969,GenMetS + age,84,GenMetS,0.11278814646977646
+970,GenMetS + age,85,Age,0.6678556897978263
+971,GenMetS + age,85,GenMetS,0.352125221176556
+972,GenMetS + age,86,Age,0.44617097560012775
+973,GenMetS + age,86,GenMetS,0.3680135774448239
+974,GenMetS + age,87,Age,0.4920615604370834
+975,GenMetS + age,87,GenMetS,0.11748609164798708
+976,GenMetS + age,88,Age,0.17359567673297382
+977,GenMetS + age,88,GenMetS,0.13485005456519655
+978,GenMetS + age,89,Age,0.3549936622452952
+979,GenMetS + age,89,GenMetS,0.19270745737933487
+980,GenMetS + age,90,Age,0.7319422834946052
+981,GenMetS + age,90,GenMetS,0.2553501223118769
+982,GenMetS + age,91,Age,0.4106655287579118
+983,GenMetS + age,91,GenMetS,0.24589770218916224
+984,GenMetS + age,92,Age,0.22018107103183898
+985,GenMetS + age,92,GenMetS,0.10010417005126536
+986,GenMetS + age,93,Age,0.4085224164103465
+987,GenMetS + age,93,GenMetS,0.2860691899342667
+988,GenMetS + age,94,Age,0.22373622414783637
+989,GenMetS + age,94,GenMetS,0.09875905886326969
+990,GenMetS + age,95,Age,0.23200926474019634
+991,GenMetS + age,95,GenMetS,0.1077368114534765
+992,GenMetS + age,96,Age,0.2138100799162769
+993,GenMetS + age,96,GenMetS,0.09780605951082656
+994,GenMetS + age,97,Age,0.4081492765487901
+995,GenMetS + age,97,GenMetS,0.09863452584296471
+996,GenMetS + age,98,Age,0.36408166551503723
+997,GenMetS + age,98,GenMetS,0.16059356986048323
+998,GenMetS + age,99,Age,0.513277304334359
+999,GenMetS + age,99,GenMetS,0.473855730437846

@@ -1,0 +1,8 @@
+Number of input genes	2705
+Number of background genes	57241
+Number of input genes with recognised Ensembl ID	2704
+Input genes without recognised Ensembl ID	BAHCC1
+Number of background genes with recognised Ensembl ID	57241
+Background genes without recognised Ensembl ID	NA
+Number of input genes with unique entrez ID	2641
+Number of background genes with unique entrez ID	24304

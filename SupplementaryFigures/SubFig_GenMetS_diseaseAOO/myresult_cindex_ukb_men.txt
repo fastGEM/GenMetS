@@ -1,0 +1,7 @@
+disease	cindex	se	lower	upper	pvalue	SampleSize	Events	EventTime
+T2DM	0.468	0.028	0.413	0.523	0.251	1014	97	50
+Hypertension	0.487	0.021	0.447	0.528	0.531	1900	174	49
+Heart Failure	0.477	0.06	0.359	0.595	0.705	295	29	55
+CAD	0.488	0.031	0.427	0.55	0.709	1070	90	47
+Stroke	0.54	0.075	0.394	0.686	0.593	198	18	50
+NAFLD	0.549	0.111	0.331	0.767	0.661	84	9	45.6

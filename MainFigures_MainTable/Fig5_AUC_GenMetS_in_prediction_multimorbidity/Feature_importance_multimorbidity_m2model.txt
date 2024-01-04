@@ -1,0 +1,8 @@
+mean	sd	CIlower	CIhigher	feature
+0.331	0.1269	0.3057	0.3563	Age
+0.1385	0.0568	0.1272	0.1499	Education
+0.0613	0.0472	0.0519	0.0707	PhysicalActivity
+0.1807	0.0727	0.1662	0.1952	PredMetS
+0.028	0.0287	0.0222	0.0337	Sleephour
+0.1339	0.0706	0.1198	0.148	SocialEconomicalStatus
+0.0852	0.0455	0.0761	0.0943	TVhour

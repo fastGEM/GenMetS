@@ -1,0 +1,109 @@
+disease	predictor	samples	test	case	control	OddsRatio	low	high	p-value
+T2DM	PredMetS	matched	case-control	677	677	1.442	1.271	1.641	1.86e-08
+T2DM	PRS_PGS000828_WC1	matched	case-control	677	677	0.968	0.869	1.077	5.49e-01
+T2DM	PRS_PGS001227_WC2	matched	case-control	677	677	1.048	0.942	1.167	3.9e-01
+T2DM	PRS_PGS000661_LDL1	matched	case-control	677	677	0.879	0.789	0.98	1.99e-02
+T2DM	PRS_PGS000891_LDL2	matched	case-control	677	677	0.967	0.866	1.08	5.54e-01
+T2DM	PRS_PGS000660_HDL1	matched	case-control	677	677	1.039	0.932	1.158	4.9e-01
+T2DM	PRS_PGS000686_HDL2	matched	case-control	677	677	1.007	0.902	1.123	9.04e-01
+T2DM	PRS_PGS000659_TG1	matched	case-control	677	677	0.964	0.866	1.073	5.01e-01
+T2DM	PRS_PGS000699_TG2	matched	case-control	677	677	0.958	0.861	1.065	4.25e-01
+T2DM	PRS_PGS000306_GLU1	matched	case-control	677	677	1.162	1.046	1.291	5.37e-03
+T2DM	PRS_PGS000684_GLU2	matched	case-control	677	677	1.201	1.08	1.337	7.74e-04
+T2DM	PRS_PGS001133_DBP	matched	case-control	677	677	0.875	0.785	0.975	1.62e-02
+T2DM	PPRS_PGS000301_SBP1	matched	case-control	677	677	1.128	1.01	1.261	3.29e-02
+T2DM	PRS_PGS001134_SBP2	matched	case-control	677	677	0.964	0.865	1.074	5.03e-01
+T2DM	PRS_PGS000807_T2D	matched	case-control	677	677	1.154	1.038	1.284	8.29e-03
+T2DM	PRS_PGS001108_BasalMetabolicRate	matched	case-control	677	677	1.009	0.906	1.123	8.68e-01
+T2DM	PRS_PGS000685_HbA1c	matched	case-control	677	677	1.196	1.075	1.332	1.04e-03
+T2DM	PRS_PGS000958_BP	matched	case-control	677	677	0.935	0.84	1.04	2.16e-01
+Hypertension	PredMetS	matched	case-control	1266	1266	1.298	1.195	1.412	8.28e-10
+Hypertension	PRS_PGS000828_WC1	matched	case-control	1266	1266	1.002	0.927	1.083	9.59e-01
+Hypertension	PRS_PGS001227_WC2	matched	case-control	1266	1266	1.01	0.934	1.092	8.09e-01
+Hypertension	PRS_PGS000661_LDL1	matched	case-control	1266	1266	0.983	0.909	1.064	6.76e-01
+Hypertension	PRS_PGS000891_LDL2	matched	case-control	1266	1266	1	0.925	1.082	9.93e-01
+Hypertension	PRS_PGS000660_HDL1	matched	case-control	1266	1266	0.997	0.923	1.077	9.32e-01
+Hypertension	PRS_PGS000686_HDL2	matched	case-control	1266	1266	1.01	0.935	1.093	7.94e-01
+Hypertension	PRS_PGS000659_TG1	matched	case-control	1266	1266	1.075	0.994	1.162	7.24e-02
+Hypertension	PRS_PGS000699_TG2	matched	case-control	1266	1266	0.976	0.903	1.056	5.52e-01
+Hypertension	PRS_PGS000306_GLU1	matched	case-control	1266	1266	1.087	1.005	1.176	3.82e-02
+Hypertension	PRS_PGS000684_GLU2	matched	case-control	1266	1266	0.984	0.91	1.063	6.78e-01
+Hypertension	PRS_PGS001133_DBP	matched	case-control	1266	1266	1.134	1.049	1.227	1.65e-03
+Hypertension	PPRS_PGS000301_SBP1	matched	case-control	1266	1266	1.253	1.156	1.358	3.72e-08
+Hypertension	PRS_PGS001134_SBP2	matched	case-control	1266	1266	1.269	1.172	1.375	4.75e-09
+Hypertension	PRS_PGS000807_T2D	matched	case-control	1266	1266	0.963	0.891	1.042	3.49e-01
+Hypertension	PRS_PGS001108_BasalMetabolicRate	matched	case-control	1266	1266	0.921	0.851	0.997	4.16e-02
+Hypertension	PRS_PGS000685_HbA1c	matched	case-control	1266	1266	0.959	0.887	1.036	2.89e-01
+Hypertension	PRS_PGS000958_BP	matched	case-control	1266	1266	1.225	1.133	1.326	4.34e-07
+Heart Failure	PredMetS	matched	case-control	93	93	1.125	0.769	1.663	5.46e-01
+Heart Failure	PRS_PGS000828_WC1	matched	case-control	93	93	1.037	0.791	1.36	7.94e-01
+Heart Failure	PRS_PGS001227_WC2	matched	case-control	93	93	1.01	0.763	1.339	9.42e-01
+Heart Failure	PRS_PGS000661_LDL1	matched	case-control	93	93	0.92	0.69	1.222	5.66e-01
+Heart Failure	PRS_PGS000891_LDL2	matched	case-control	93	93	0.911	0.67	1.23	5.44e-01
+Heart Failure	PRS_PGS000660_HDL1	matched	case-control	93	93	1.032	0.768	1.387	8.35e-01
+Heart Failure	PRS_PGS000686_HDL2	matched	case-control	93	93	0.922	0.696	1.219	5.69e-01
+Heart Failure	PRS_PGS000659_TG1	matched	case-control	93	93	1.23	0.938	1.629	1.4e-01
+Heart Failure	PRS_PGS000699_TG2	matched	case-control	93	93	0.975	0.73	1.302	8.66e-01
+Heart Failure	PRS_PGS000306_GLU1	matched	case-control	93	93	1.224	0.92	1.647	1.71e-01
+Heart Failure	PRS_PGS000684_GLU2	matched	case-control	93	93	0.837	0.628	1.106	2.14e-01
+Heart Failure	PRS_PGS001133_DBP	matched	case-control	93	93	0.891	0.652	1.214	4.66e-01
+Heart Failure	PPRS_PGS000301_SBP1	matched	case-control	93	93	1.341	0.98	1.855	7.05e-02
+Heart Failure	PRS_PGS001134_SBP2	matched	case-control	93	93	1.493	1.12	2.02	7.46e-03
+Heart Failure	PRS_PGS000807_T2D	matched	case-control	93	93	1.087	0.814	1.457	5.73e-01
+Heart Failure	PRS_PGS001108_BasalMetabolicRate	matched	case-control	93	93	0.936	0.683	1.279	6.77e-01
+Heart Failure	PRS_PGS000685_HbA1c	matched	case-control	93	93	0.997	0.758	1.312	9.85e-01
+Heart Failure	PRS_PGS000958_BP	matched	case-control	93	93	1.124	0.856	1.484	4.03e-01
+CAD	PredMetS	matched	case-control	404	404	1.429	1.203	1.706	5.89e-05
+CAD	PRS_PGS000828_WC1	matched	case-control	404	404	0.963	0.845	1.097	5.71e-01
+CAD	PRS_PGS001227_WC2	matched	case-control	404	404	0.905	0.789	1.037	1.51e-01
+CAD	PRS_PGS000661_LDL1	matched	case-control	404	404	1.161	1.01	1.337	3.59e-02
+CAD	PRS_PGS000891_LDL2	matched	case-control	404	404	1.12	0.972	1.293	1.17e-01
+CAD	PRS_PGS000660_HDL1	matched	case-control	404	404	1.001	0.867	1.156	9.9e-01
+CAD	PRS_PGS000686_HDL2	matched	case-control	404	404	1.017	0.882	1.172	8.18e-01
+CAD	PRS_PGS000659_TG1	matched	case-control	404	404	1.044	0.91	1.198	5.37e-01
+CAD	PRS_PGS000699_TG2	matched	case-control	404	404	1.11	0.963	1.279	1.5e-01
+CAD	PRS_PGS000306_GLU1	matched	case-control	404	404	1.188	1.034	1.366	1.53e-02
+CAD	PRS_PGS000684_GLU2	matched	case-control	404	404	0.973	0.849	1.115	6.98e-01
+CAD	PRS_PGS001133_DBP	matched	case-control	404	404	0.947	0.821	1.091	4.49e-01
+CAD	PPRS_PGS000301_SBP1	matched	case-control	404	404	1.099	0.957	1.265	1.83e-01
+CAD	PRS_PGS001134_SBP2	matched	case-control	404	404	1.031	0.899	1.183	6.63e-01
+CAD	PRS_PGS000807_T2D	matched	case-control	404	404	1.047	0.917	1.196	4.96e-01
+CAD	PRS_PGS001108_BasalMetabolicRate	matched	case-control	404	404	0.917	0.799	1.051	2.12e-01
+CAD	PRS_PGS000685_HbA1c	matched	case-control	404	404	1.042	0.91	1.195	5.49e-01
+CAD	PRS_PGS000958_BP	matched	case-control	404	404	1.107	0.963	1.274	1.53e-01
+Stroke	PredMetS	matched	case-control	97	97	0.98	0.723	1.327	8.96e-01
+Stroke	PRS_PGS000828_WC1	matched	case-control	97	97	1.06	0.792	1.424	6.94e-01
+Stroke	PRS_PGS001227_WC2	matched	case-control	97	97	0.999	0.753	1.326	9.95e-01
+Stroke	PRS_PGS000661_LDL1	matched	case-control	97	97	1.058	0.792	1.416	7.01e-01
+Stroke	PRS_PGS000891_LDL2	matched	case-control	97	97	1.073	0.798	1.449	6.43e-01
+Stroke	PRS_PGS000660_HDL1	matched	case-control	97	97	1.137	0.851	1.527	3.87e-01
+Stroke	PRS_PGS000686_HDL2	matched	case-control	97	97	0.961	0.721	1.28	7.87e-01
+Stroke	PRS_PGS000659_TG1	matched	case-control	97	97	1.165	0.883	1.545	2.82e-01
+Stroke	PRS_PGS000699_TG2	matched	case-control	97	97	1.019	0.756	1.375	9e-01
+Stroke	PRS_PGS000306_GLU1	matched	case-control	97	97	1.038	0.769	1.402	8.08e-01
+Stroke	PRS_PGS000684_GLU2	matched	case-control	97	97	1.049	0.79	1.396	7.41e-01
+Stroke	PRS_PGS001133_DBP	matched	case-control	97	97	1.324	1.011	1.751	4.42e-02
+Stroke	PPRS_PGS000301_SBP1	matched	case-control	97	97	1.11	0.841	1.473	4.62e-01
+Stroke	PRS_PGS001134_SBP2	matched	case-control	97	97	1.136	0.851	1.526	3.89e-01
+Stroke	PRS_PGS000807_T2D	matched	case-control	97	97	1.327	1.014	1.758	4.27e-02
+Stroke	PRS_PGS001108_BasalMetabolicRate	matched	case-control	97	97	0.896	0.659	1.212	4.76e-01
+Stroke	PRS_PGS000685_HbA1c	matched	case-control	97	97	1.032	0.789	1.35	8.19e-01
+Stroke	PRS_PGS000958_BP	matched	case-control	97	97	1.14	0.868	1.505	3.5e-01
+NAFLD	PredMetS	matched	case-control	77	77	1.128	0.796	1.611	4.99e-01
+NAFLD	PRS_PGS000828_WC1	matched	case-control	77	77	1.195	0.884	1.63	2.51e-01
+NAFLD	PRS_PGS001227_WC2	matched	case-control	77	77	0.905	0.674	1.211	5.04e-01
+NAFLD	PRS_PGS000661_LDL1	matched	case-control	77	77	0.868	0.631	1.185	3.75e-01
+NAFLD	PRS_PGS000891_LDL2	matched	case-control	77	77	0.862	0.639	1.147	3.14e-01
+NAFLD	PRS_PGS000660_HDL1	matched	case-control	77	77	0.965	0.698	1.331	8.27e-01
+NAFLD	PRS_PGS000686_HDL2	matched	case-control	77	77	0.947	0.67	1.334	7.53e-01
+NAFLD	PRS_PGS000659_TG1	matched	case-control	77	77	1.199	0.889	1.636	2.4e-01
+NAFLD	PRS_PGS000699_TG2	matched	case-control	77	77	1.188	0.861	1.651	2.96e-01
+NAFLD	PRS_PGS000306_GLU1	matched	case-control	77	77	1.224	0.912	1.66	1.84e-01
+NAFLD	PRS_PGS000684_GLU2	matched	case-control	77	77	1.098	0.803	1.508	5.59e-01
+NAFLD	PRS_PGS001133_DBP	matched	case-control	77	77	0.756	0.52	1.085	1.34e-01
+NAFLD	PPRS_PGS000301_SBP1	matched	case-control	77	77	0.965	0.707	1.315	8.22e-01
+NAFLD	PRS_PGS001134_SBP2	matched	case-control	77	77	1.04	0.767	1.414	8.02e-01
+NAFLD	PRS_PGS000807_T2D	matched	case-control	77	77	1.298	0.927	1.836	1.33e-01
+NAFLD	PRS_PGS001108_BasalMetabolicRate	matched	case-control	77	77	0.901	0.668	1.208	4.86e-01
+NAFLD	PRS_PGS000685_HbA1c	matched	case-control	77	77	1.034	0.754	1.42	8.36e-01
+NAFLD	PRS_PGS000958_BP	matched	case-control	77	77	0.871	0.627	1.204	4.06e-01
