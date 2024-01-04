@@ -1,2 +1,5 @@
 Project_GitHub.zip
 Project_GitHub/
+push.sh
+*/*/*.tiff
+MainFigures_MainTable/*/*.tiff
