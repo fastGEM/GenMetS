@@ -1,0 +1,16 @@
+PGSID	Reported.Trait	Number.of.Variants	Ancestry_GWAS	Ancestry_Evaluation	GWAS_Samples	Evaluation_Samples	Journal	Date	PMID
+PGS000828	Waist circumference (female)	149	European:100	Multi-ancestry (including European):100	142762	NA	Sci Rep	2019-05-02	31048771
+PGS001227	Waist circumference	25538	NA	European:40|African:20|East Asian:20|South Asian:20	269260	1698	medRxiv	2021-09-06	NA
+PGS000661	LDL cholesterol	84	East Asian:100	East Asian:100	441	865	Genome Med	2021-02-19	33608049
+PGS000891	Low density lipoprotein (LDL) cholesterol	66	East Asian:100	East Asian:33.3|African:16.7|Hispanic or Latin American:16.7|Additional Asian Ancestries:16.7|European:16.7	82587	NA	Nature	2021-12-09	NA
+PGS000660	HDL cholesterol	549	East Asian:100	East Asian:100	70657	NA	Genome Med	2021-02-19	33608049
+PGS000686	HDL cholesterol [mmol/L]	25069	NA	European:50|African:16.7|East Asian:16.7|South Asian:16.7	223327	986	Nat Genet	2021-01-18	33462484
+PGS000659	Triglycerides	142	East Asian:100	East Asian:100	105597	NA	Genome Med	2021-02-19	33608049
+PGS000699	Triglycerides [mmol/L]	16003	NA	European:50|African:16.7|East Asian:16.7|South Asian:16.7	31929	1615	Nat Genet	2021-01-18	33462484
+PGS000306	Fasting glucose (body mass index adjusted)	19	European:100	European:100	133010	NA	Circ Genom Precis Med	2020-06-11	32527150
+PGS000684	Glucose [mmol/L]	3313	NA	European:50|African:16.7|East Asian:16.7|South Asian:16.7	31929	2208	Nat Genet	2021-01-18	33462484
+PGS000685	HbA1c [mmol/mol]	14658	NA	European:45.5|African:18.2|East Asian:18.2|South Asian:18.2	31929	4847	Nat Genet	2021-01-18	33462484
+PGS001133	Diastolic BP (AR)	14103	NA	European:40|African:20|East Asian:20|South Asian:20	255692	7640	medRxiv	2021-09-06	NA
+PGS000302	Diastolic blood pressure	962	European:100	European:100	757601	NA	Circ Genom Precis Med	2020-06-11	32527150
+PGS000301	Systolic blood pressure	970	European:100	European:100	757601	NA	Circ Genom Precis Med	2020-06-11	32527150
+PGS001134	Systolic BP (AR)	15481	NA	European:40|African:20|East Asian:20|South Asian:20	255692	7640	medRxiv	2021-09-06	NA
