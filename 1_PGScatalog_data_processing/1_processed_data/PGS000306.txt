@@ -1,0 +1,34 @@
+###PGS CATALOG SCORING FILE - see https://www.pgscatalog.org/downloads/#dl_ftp_scoring for additional information
+#format_version=2.0
+##POLYGENIC SCORE (PGS) INFORMATION
+#pgs_id=PGS000306
+#pgs_name=GRS19_FGadjBMI
+#trait_reported=Fasting glucose (body mass index adjusted)
+#trait_mapped=BMI-adjusted fasting blood glucose measurement
+#trait_efo=EFO_0008036
+#weight_type=Beta (corrected for sample overlap)
+#genome_build=GRCh37
+#variants_number=19
+##SOURCE INFORMATION
+#pgp_id=PGP000092
+#citation=Xie T et al. Circ Genom Precis Med (2020). doi:10.1161/circgen.119.002775
+rsID	chr_name	chr_position	effect_allele	other_allele	effect_weight
+rs1371614	2	27152874	T	C	0.0203
+rs7651090	3	185513392	G	A	0.015495
+rs7708285	5	76425867	G	A	0.015131
+rs4869272	5	95539448	T	C	0.018374
+rs17762454	6	7213200	T	C	0.014148
+rs9368222	6	20686996	A	C	0.015771
+rs6943153	7	50791579	T	C	0.015558
+rs983309	8	9177732	T	G	0.024759
+rs10811661	9	22134094	T	C	0.022307
+rs16913693	9	111680359	T	G	0.050001
+rs3829109	9	139256766	G	A	0.016263
+rs1483121	11	48333360	G	A	0.0201
+rs11603334	11	72432985	G	A	0.021216
+rs2657879	12	56865338	G	A	0.01604
+rs11619319	13	28487599	G	A	0.020289
+rs576674	13	33554302	G	A	0.019811
+rs3783347	14	100839261	G	T	0.017708
+rs6113722	20	22557099	G	A	0.038297
+rs6072275	20	39743905	A	G	0.016256
