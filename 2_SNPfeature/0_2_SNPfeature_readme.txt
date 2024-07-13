@@ -13,6 +13,6 @@ $bash 1_spresto934_gusto434_MetS_SNPs.sh
           MetS samples in merged after QC and removal of MHC   = 1368
           prune in = 31409
           prune out = 33673
-          final SNPs =31409 ############
+          final SNPs =31409 
           final Samples =1368
 
