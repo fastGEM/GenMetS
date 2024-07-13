@@ -1,3 +1,4 @@
+#use plink to generate prs data.
 plink2 --pfile ../../2_genotype/m1079_snpQC --score PGScatalog_data_processing/1_processed_data/PGS000828.QC.txt  1 2 3 header cols=scoreavgs,denom,scoresums --out  prs_result20/gusto_woman_PGS000828_WC1 
 plink2 --pfile ../../2_genotype/i1073_snpQC --score PGScatalog_data_processing/1_processed_data/PGS000828.QC.txt  1 2 3 header cols=scoreavgs,denom,scoresums --out  prs_result20/gusto_child_PGS000828_WC1 
 plink2 --pfile ../../2_genotype/s969 --score PGScatalog_data_processing/1_processed_data/PGS000828.QC.txt  1 2 3 header cols=scoreavgs,denom,scoresums --out  prs_result20/spresto_woman_PGS000828_WC1 
