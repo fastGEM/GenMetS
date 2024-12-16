@@ -1,58 +1,42 @@
-# Files:
-XGboost_three_models.py
-# SHAP value
-When using SHAP (SHapley Additive exPlanations) to interpret machine learning models, especially for models like XGBoost, normalization is not necessary.
-# Covariates selection
-In our model, we select 6 covariates that potentially contributes to the Multimorbidity: Age, social economical status, TV hour, education, physical activity, and sleep hour. These covariates are selected based on the previous literatures.
-## 1. Age: 
-### What's the variable:
-Age is a continuous variable, representing the number of years a person has lived.
-### Reason why it's important to Multimorbidity: 
-Age is a known risk factor for metabolic syndrome. As individuals get older, they are more likely to experience hormonal changes, decreased muscle mass, and other physiological changes that can contribute to the conditions associated with metabolic syndrome.
-### Citation: 
-[Barnett, K., Mercer, S. W., Norbury, M., Watt, G., Wyke, S., & Guthrie, B. (2012). Epidemiology of multimorbidity and implications for health care, research, and medical education: a cross-sectional study. The Lancet, 380(9836), 37-43.](https://doi.org/10.1016/S0140-6736(12)60240-2)
-## 2. Social economical status
-### What's the variable: 
-Social economic status (SES) encompasses an individual's economic and sociological standing, usually combined factors like income, education, and occupation.
-### Reason why it's important to Multimorbidity: 
-Individuals with lower socio-economic status tend to have higher rates of multi-morbidity due to various factors like limited access to health care, poorer living conditions, and increased health risk behaviors.
-### Citation: 
-[Katikireddi, S. V., Skivington, K., Leyland, A. H., Hunt, K., & Mercer, S. W. (2017). The contribution of risk factors to socioeconomic inequalities in multimorbidity across the lifecourse: a longitudinal analysis of the Twenty-07 cohort. BMC medicine, 15(1), 152.](https://doi.org/10.1186/s12916-017-0913-6)
-## 3. TV hour
-### What's the variable: 
-TV hour represents the average number of hours an individual spends watching television daily.
 
-### Reason why it's important to Multimorbidity: 
-Extended TV viewing hours are associated with sedentary behavior, which can contribute to the development of multiple chronic diseases and, therefore, multi-morbidity.
-### Citation: 
-[Stamatakis, E., Hamer, M., & Dunstan, D. W. (2011). Screen-based entertainment time, all-cause mortality, and cardiovascular events: Population-based study with ongoing mortality and hospital events follow-up. Journal of the American College of Cardiology, 57(3), 292-299.](https://doi.org/10.1016/j.jacc.2010.05.065)
-## 4. Education
-### What's the variable: 
-Education is typically categorized by the highest level of schooling or degree an individual has achieved.
+## Traits available in UKBiobank and used in this study.
+| FieldID | Field                                      | ValueType           | Units         | Trait In This Study            |
+|---------|--------------------------------------------|---------------------|---------------|---------------------------------|
+| 31      | Sex                                        | Categorical single  |               | Sex                             |
+| 34      | Year of birth                              | Integer             | years         | Year of birth                   |
+| 48      | Waist circumference                        | Continuous          | cm            | WC                              |
+| 93      | Systolic blood pressure, manual reading    | Integer             | mmHg          | SBP manual                      |
+| 94      | Diastolic blood pressure, manual reading   | Integer             | mmHg          | DBP manual                      |
+| 1070    | Time spent watching television (TV)        | Integer             | hours/day     | TV hours                        |
+| 1160    | Sleep duration                             | Integer             | hours/day     | Sleep hours                     |
+| 4079    | Diastolic blood pressure, automated reading| Integer             | mmHg          | DBP*                            |
+| 4080    | Systolic blood pressure, automated reading | Integer             | mmHg          | SBP*                            |
+| 6138    | Qualifications                             | Categorical multiple|               | Education                       |
+| 20003   | Treatment/medication code                  | Categorical multiple|               | Medication                      |
+| 21000   | Ethnic background                          | Categorical single  |               | Self-reported Ethnicity         |
+| 21001   | Body mass index (BMI)                      | Continuous          | kg/m2         | BMI                             |
+| 21003   | Age when attended assessment centre        | Integer             | years         | Age                             |
+| 22001   | Genetic sex                                | Categorical single  |               | Genetic sex                     |
+| 22189   | Townsend deprivation index at recruitment  | Continuous          |               | Socioeconomic status            |
+| 22040   | Summed MET minutes per week for all activity| Continuous          | minutes/week | Physical Activity               |
+| 30750   | Glycated haemoglobin (HbA1c)              | Continuous          | mmol/mol      | HbA1c                           |
+| 30760   | High Density Lipoprotein (HDL)            | Continuous          | mmol/L        | HDL                             |
+| 30780   | Low Density Lipoprotein (LDL)             | Continuous          | mmol/L        | LDL                             |
+| 30870   | Triglycerides (TG)                        | Continuous          | mmol/L        | TG                              |
+| 41270   | Diagnoses - ICD10                         | Categorical multiple|               | ICD10                           |
+| 41280   | Date of first in-patient diagnosis - ICD10| Date                |               | ICD10 disease onset             |
 
-### Reason why it's important to Multimorbidity: 
-Lower levels of education are linked to higher rates of multi-morbidity, possibly due to reduced health literacy and lower health-promoting behaviors.
-### Citation: 
-[Schiøtz, M. L., Stockmarr, A., Høst, D., Glümer, C., & Frølich, A. (2017). Social disparities in the prevalence of multimorbidity – A register-based population study. BMC public health, 17(1), 422.](https://doi.org/10.1186/s12889-017-4314-8)
-## 5. Physical activity
-### What's the variable: 
-Regular physical activity can prevent or manage multiple chronic diseases, reducing the risk of multi-morbidity.
+*Automated DBP/SBP readings were the preferred source of data. However, if unavailable, manual readings were used.
 
-### Reason why it's important to Multimorbidity: 
-Regular physical activity can help regulate blood sugar, improve cholesterol levels, and maintain a healthy weight, thus decreasing the risk of metabolic syndrome.
-### Citation: 
-[Pedersen, B. K., & Saltin, B. (2015). Exercise as medicine - evidence for prescribing exercise as therapy in 26 different chronic diseases. Scandinavian journal of medicine & science in sports, 25(S3), 1-72.](https://doi.org/10.1111/sms.12581)
-## 6. Sleep hour
-### What's the variable: 
-Sleep hour refers to the average number of hours an individual sleeps per night.
 
-### Reason why it's important to Multimorbidity: 
-Both short and long sleep durations are associated with an increased risk for several chronic conditions, which can collectively contribute to multi-morbidity.
-### Citation: 
-[Grandner, M. A., Hale, L., Moore, M., & Patel, N. P. (2010). Mortality associated with short sleep duration: The evidence, the possible mechanisms, and the future. Sleep medicine reviews, 14(3), 191-203.](https://doi.org/10.1016/j.smrv.2009.07.006)
+## ICD10 codes for disease diagnoses from electronic record in UK Biobank used in the multi-morbidity analysis.
 
-## General covariates paper for Multimorbidity
-[Barnett, K., Mercer, S. W., Norbury, M., Watt, G., Wyke, S., & Guthrie, B. (2012). Epidemiology of multimorbidity and implications for health care, research, and medical education: a cross-sectional study. The Lancet, 380(9836), 37-43.](https://doi.org/10.1016/S0140-6736(12)60240-2)
-
-[Marmot, M., & Bell, R. (2012). Fair society, healthy lives. Public Health, 126, S4-S10](https://doi.org/10.1016/j.puhe.2012.05.014)
-
+| Diseases                            | Case_ICD10_codes                                                               | non-control_ICD_codes                                                                                                                                     |
+|-------------------------------------|--------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Type 2 Diabetes Mellitus            | E11                                                                            | E10, E12, E13, and E14                                                                                                                                    |
+| Heart Failure                       | I11.0, I13.0, I13.2, I25.5, I42.0, I42.5, I42.8, I42.9, I50.0, I50.1, and I50.9                                       |                                                                                                                                                           |
+| Hypertension                        | I10, I15                                                                       |                                                                                                                                                           |
+| Non-Alcoholic Fatty Liver Disease (NAFLD) | K76.0, K75.8                                                                 | K70, B16, B17, B18, B19, K83.0, K74.3, K75.4, E83.1, E83.0B, E88.0, I82.0, K76.5, K73.9, K73.2, K74.4, K74.5                                               |
+| Stroke                              | I60, I61, I63, I64, H34.1, and G45                                             |                                                                                                                                                           |
+| Coronary Artery Disease (CAD)       | I20-I25                                                                        |                                                                                                                                                           |
+| Myocardial Infarction               | I20, I21                                                                       |                                                                                                                                                           |
