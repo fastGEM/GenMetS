@@ -1,0 +1,47 @@
+Cohort	Major Ancestry	Sex	Disease	Predictor	Samples	Case	Control	OddsRatio	95%CI lower	95%CI upper	p-value
+UKB ASN	Asian	Women	Type 2 diabetes	GenMetS	matched	677	677	1.61	1.422	1.83	1.37e-13
+UKB ASN	Asian	Women	Type 2 diabetes	Walree2022_MetS	matched	677	677	1.253	1.125	1.397	4.51e-05
+UKB ASN	Asian	Women	Type 2 diabetes	Lind2019_MetS	matched	677	677	1.086	0.977	1.207	0.126
+UKB ASN	Asian	Men	Type 2 diabetes	GenMetS	matched	1014	1014	1.432	1.299	1.583	1e-12
+UKB ASN	Asian	Men	Type 2 diabetes	Walree2022_MetS	matched	1014	1014	1.217	1.112	1.333	2.12e-05
+UKB ASN	Asian	Men	Type 2 diabetes	Lind2019_MetS	matched	1014	1014	1.2	1.1	1.31	4.14e-05
+UKB ASN	Asian	Women	Stroke	GenMetS	matched	114	114	1.123	0.852	1.486	0.412
+UKB ASN	Asian	Women	Stroke	Walree2022_MetS	matched	114	114	1.26	0.985	1.623	0.0685
+UKB ASN	Asian	Women	Stroke	Lind2019_MetS	matched	114	114	1.356	1.031	1.799	0.0317
+UKB ASN	Asian	Women	Stroke	Mishra2022_stroke	matched	114	114	1.367	1.037	1.828	0.0296
+UKB ASN	Asian	Men	Stroke	GenMetS	matched	198	198	1.393	1.111	1.777	0.00532
+UKB ASN	Asian	Men	Stroke	Walree2022_MetS	matched	198	198	1.134	0.927	1.391	0.223
+UKB ASN	Asian	Men	Stroke	Lind2019_MetS	matched	198	198	1.112	0.918	1.351	0.279
+UKB ASN	Asian	Men	Stroke	Mishra2022_stroke	matched	198	198	1.073	0.88	1.31	0.485
+UKB ASN	Asian	Women	Heart failure	GenMetS	matched	114	114	1.522	1.12	2.112	0.00894
+UKB ASN	Asian	Women	Heart failure	Walree2022_MetS	matched	114	114	1.328	1.04	1.71	0.0246
+UKB ASN	Asian	Women	Heart failure	Lind2019_MetS	matched	114	114	1.326	1.025	1.732	0.0344
+UKB ASN	Asian	Women	Heart failure	Levin2022_HF	matched	114	114	1.177	0.899	1.549	0.239
+UKB ASN	Asian	Men	Heart failure	GenMetS	matched	295	295	1.878	1.49	2.445	5.11e-07
+UKB ASN	Asian	Men	Heart failure	Walree2022_MetS	matched	295	295	1.154	0.973	1.372	0.102
+UKB ASN	Asian	Men	Heart failure	Lind2019_MetS	matched	295	295	1.158	0.986	1.362	0.0741
+UKB ASN	Asian	Men	Heart failure	Levin2022_HF	matched	295	295	1.119	0.951	1.319	0.178
+UKB ASN	Asian	Women	Coronary artery disease	GenMetS	matched	449	449	1.638	1.396	1.935	2.77e-09
+UKB ASN	Asian	Women	Coronary artery disease	Walree2022_MetS	matched	449	449	1.262	1.106	1.443	0.000608
+UKB ASN	Asian	Women	Coronary artery disease	Lind2019_MetS	matched	449	449	1.079	0.948	1.229	0.249
+UKB ASN	Asian	Women	Coronary artery disease	Aragam2022_CAD	matched	449	449	2.01	1.757	2.314	2.71e-23
+UKB ASN	Asian	Men	Coronary artery disease	GenMetS	matched	1070	1070	1.682	1.507	1.89	2.13e-19
+UKB ASN	Asian	Men	Coronary artery disease	Walree2022_MetS	matched	1070	1070	1.176	1.078	1.283	0.000283
+UKB ASN	Asian	Men	Coronary artery disease	Lind2019_MetS	matched	1070	1070	1.176	1.081	1.28	0.000169
+UKB ASN	Asian	Men	Coronary artery disease	Aragam2022_CAD	matched	1070	1070	2.404	2.176	2.663	3.38e-65
+UKB ASN	Asian	Women	Myocardial infarction	GenMetS	matched	313	313	1.624	1.339	1.99	1.52e-06
+UKB ASN	Asian	Women	Myocardial infarction	Walree2022_MetS	matched	313	313	1.26	1.076	1.481	0.00449
+UKB ASN	Asian	Women	Myocardial infarction	Lind2019_MetS	matched	313	313	1.1	0.945	1.283	0.219
+UKB ASN	Asian	Women	Myocardial infarction	Hartiala2021_MI	matched	313	313	1.352	1.174	1.564	3.59e-05
+UKB ASN	Asian	Men	Myocardial infarction	GenMetS	matched	807	807	1.694	1.487	1.948	1.68e-14
+UKB ASN	Asian	Men	Myocardial infarction	Walree2022_MetS	matched	807	807	1.162	1.05	1.287	0.00389
+UKB ASN	Asian	Men	Myocardial infarction	Lind2019_MetS	matched	807	807	1.221	1.106	1.35	7.79e-05
+UKB ASN	Asian	Men	Myocardial infarction	Hartiala2021_MI	matched	807	807	2.093	1.885	2.332	2.49e-42
+UKB ASN	Asian	Women	Hypertension	GenMetS	matched	1369	1369	1.398	1.293	1.514	8.28e-17
+UKB ASN	Asian	Women	Hypertension	Walree2022_MetS	matched	1369	1369	1.209	1.121	1.304	8.02e-07
+UKB ASN	Asian	Women	Hypertension	Lind2019_MetS	matched	1369	1369	1.095	1.016	1.18	0.0182
+UKB ASN	Asian	Women	Hypertension	Sinnott2021_HTN	matched	1369	1369	1.34	1.241	1.449	1.3e-13
+UKB ASN	Asian	Men	Hypertension	GenMetS	matched	1900	1900	1.35	1.263	1.446	2.5e-18
+UKB ASN	Asian	Men	Hypertension	Walree2022_MetS	matched	1900	1900	1.19	1.116	1.269	1.29e-07
+UKB ASN	Asian	Men	Hypertension	Lind2019_MetS	matched	1900	1900	1.134	1.064	1.209	0.000112
+UKB ASN	Asian	Men	Hypertension	Sinnott2021_HTN	matched	1900	1900	1.291	1.21	1.377	1.3e-14

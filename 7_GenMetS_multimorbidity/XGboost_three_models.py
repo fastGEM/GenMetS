@@ -56,7 +56,9 @@ covariates = [
 
 missing_covariates = ['GenMetS','Education']
 # Load the data
-study_data_v2 = pd.read_csv('./study_data_v2.csv', sep = '\t')
+# study_data_v2 = pd.read_csv('./study_data_v2.csv', sep = '\t')
+study_data_v2 = pd.read_csv('./UKB_Asianwomenmen_s8792_mets_diseases_others.txt', sep='\t')
+study_data_v2 = study_data_v2[study_data_v2.sex == 'Female']
 ## set eduction = NA when -3, -7
 study_data_v2.loc[study_data_v2.Education == -3, 'Education'] = np.nan
 study_data_v2.loc[study_data_v2.Education == -7, 'Education'] = np.nan

@@ -1,0 +1,49 @@
+Cohort	Major Ancestry	Sex	Disease	Predictor	Samples	Case	Control	OddsRatio	95%CI lower	95%CI upper	p-value
+ATTRaCT	Asian	Women	Type 2 diabetes	GenMetS	matched	192	192	2.028	1.62	2.587	2.89e-09
+ATTRaCT	Asian	Women	Type 2 diabetes	Walree2022_MetS	matched	192	192	1.375	1.111	1.714	0.00396
+ATTRaCT	Asian	Women	Type 2 diabetes	Lind2019_MetS	matched	192	192	0.995	0.813	1.217	0.957
+ATTRaCT	Asian	Women	Type 2 diabetes	Suzuki2024_T2DM	matched	192	192	1.011	0.823	1.242	0.92
+ATTRaCT	Asian	Men	Type 2 diabetes	GenMetS	matched	535	535	1.46	1.292	1.655	1.89e-09
+ATTRaCT	Asian	Men	Type 2 diabetes	Walree2022_MetS	matched	535	535	1.088	0.965	1.227	0.168
+ATTRaCT	Asian	Men	Type 2 diabetes	Lind2019_MetS	matched	535	535	0.896	0.794	1.01	0.0735
+ATTRaCT	Asian	Men	Type 2 diabetes	Suzuki2024_T2DM	matched	535	535	1.051	0.931	1.186	0.423
+ATTRaCT	Asian	Women	Stroke	GenMetS	matched	32	32	0.986	0.654	1.483	0.945
+ATTRaCT	Asian	Women	Stroke	Walree2022_MetS	matched	32	32	1.015	0.613	1.685	0.952
+ATTRaCT	Asian	Women	Stroke	Lind2019_MetS	matched	32	32	1.295	0.75	2.318	0.361
+ATTRaCT	Asian	Women	Stroke	Mishra2022_stroke	matched	32	32	1.685	1.022	2.932	0.0496
+ATTRaCT	Asian	Men	Stroke	GenMetS	matched	105	105	1.352	1.046	1.769	0.0235
+ATTRaCT	Asian	Men	Stroke	Walree2022_MetS	matched	105	105	1.15	0.872	1.526	0.325
+ATTRaCT	Asian	Men	Stroke	Lind2019_MetS	matched	105	105	1.026	0.799	1.318	0.84
+ATTRaCT	Asian	Men	Stroke	Mishra2022_stroke	matched	105	105	1.081	0.827	1.417	0.569
+ATTRaCT	Asian	Women	Heart failure	GenMetS	matched	295	295	1.465	1.242	1.739	8.58e-06
+ATTRaCT	Asian	Women	Heart failure	Walree2022_MetS	matched	295	295	1.196	1.013	1.416	0.0355
+ATTRaCT	Asian	Women	Heart failure	Lind2019_MetS	matched	295	295	0.98	0.833	1.153	0.805
+ATTRaCT	Asian	Women	Heart failure	Levin2022_HF	matched	295	295	0.964	0.82	1.133	0.656
+ATTRaCT	Asian	Men	Heart failure	GenMetS	matched	480	480	1.328	1.162	1.523	3.72e-05
+ATTRaCT	Asian	Men	Heart failure	Walree2022_MetS	matched	480	480	1.109	0.98	1.256	0.103
+ATTRaCT	Asian	Men	Heart failure	Lind2019_MetS	matched	480	480	0.921	0.811	1.046	0.207
+ATTRaCT	Asian	Men	Heart failure	Levin2022_HF	matched	480	480	1.109	0.975	1.261	0.116
+ATTRaCT	Asian	Women	Coronary artery disease	GenMetS	matched	107	107	0.973	0.764	1.239	0.827
+ATTRaCT	Asian	Women	Coronary artery disease	Walree2022_MetS	matched	107	107	0.92	0.697	1.211	0.553
+ATTRaCT	Asian	Women	Coronary artery disease	Lind2019_MetS	matched	107	107	1.029	0.789	1.344	0.833
+ATTRaCT	Asian	Women	Coronary artery disease	Aragam2022_CAD	matched	107	107	0.795	0.593	1.056	0.117
+ATTRaCT	Asian	Men	Coronary artery disease	GenMetS	matched	355	355	1.411	1.211	1.652	1.36e-05
+ATTRaCT	Asian	Men	Coronary artery disease	Walree2022_MetS	matched	355	355	0.974	0.837	1.132	0.729
+ATTRaCT	Asian	Men	Coronary artery disease	Lind2019_MetS	matched	355	355	1.09	0.937	1.269	0.263
+ATTRaCT	Asian	Men	Coronary artery disease	Aragam2022_CAD	matched	355	355	0.838	0.726	0.966	0.0154
+ATTRaCT	Asian	Women	Myocardial infarction	GenMetS	matched	46	46	1.081	0.761	1.545	0.663
+ATTRaCT	Asian	Women	Myocardial infarction	Walree2022_MetS	matched	46	46	0.871	0.524	1.426	0.583
+ATTRaCT	Asian	Women	Myocardial infarction	Lind2019_MetS	matched	46	46	1.017	0.674	1.536	0.935
+ATTRaCT	Asian	Women	Myocardial infarction	Hartiala2021_MI	matched	46	46	1.147	0.79	1.684	0.472
+ATTRaCT	Asian	Men	Myocardial infarction	GenMetS	matched	286	286	1.142	0.977	1.336	0.0967
+ATTRaCT	Asian	Men	Myocardial infarction	Walree2022_MetS	matched	286	286	1.013	0.862	1.19	0.876
+ATTRaCT	Asian	Men	Myocardial infarction	Lind2019_MetS	matched	286	286	0.983	0.84	1.151	0.834
+ATTRaCT	Asian	Men	Myocardial infarction	Hartiala2021_MI	matched	286	286	1.178	0.999	1.393	0.0523
+ATTRaCT	Asian	Women	Hypertension	GenMetS	matched	349	349	1.436	1.225	1.692	1.09e-05
+ATTRaCT	Asian	Women	Hypertension	Walree2022_MetS	matched	349	349	1.091	0.939	1.27	0.256
+ATTRaCT	Asian	Women	Hypertension	Lind2019_MetS	matched	349	349	0.915	0.788	1.061	0.242
+ATTRaCT	Asian	Women	Hypertension	Sinnott2021_HTN	matched	349	349	1.415	1.213	1.657	1.21e-05
+ATTRaCT	Asian	Men	Hypertension	GenMetS	matched	602	602	1.012	0.9	1.139	0.84
+ATTRaCT	Asian	Men	Hypertension	Walree2022_MetS	matched	602	602	0.93	0.829	1.042	0.211
+ATTRaCT	Asian	Men	Hypertension	Lind2019_MetS	matched	602	602	0.938	0.835	1.052	0.276
+ATTRaCT	Asian	Men	Hypertension	Sinnott2021_HTN	matched	602	602	1.224	1.093	1.373	0.00052

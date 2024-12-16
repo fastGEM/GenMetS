@@ -1,0 +1,13 @@
+Cohort	Major Ancestry	Sex	Disease	Predictor	Samples	Case	Control	OddsRatio	95%CI lower	95%CI upper	p-value
+ATTRaCT	Asian	Women	Type 2 diabetes	GenMetS	matched	192	192	2.028	1.62	2.587	2.89e-09
+ATTRaCT	Asian	Men	Type 2 diabetes	GenMetS	matched	535	535	1.46	1.292	1.655	1.89e-09
+ATTRaCT	Asian	Women	Stroke	GenMetS	matched	32	32	0.986	0.654	1.483	0.945
+ATTRaCT	Asian	Men	Stroke	GenMetS	matched	105	105	1.352	1.046	1.769	0.0235
+ATTRaCT	Asian	Women	Heart failure	GenMetS	matched	295	295	1.465	1.242	1.739	8.58e-06
+ATTRaCT	Asian	Men	Heart failure	GenMetS	matched	480	480	1.328	1.162	1.523	3.72e-05
+ATTRaCT	Asian	Women	Coronary artery disease	GenMetS	matched	107	107	0.973	0.764	1.239	0.827
+ATTRaCT	Asian	Men	Coronary artery disease	GenMetS	matched	355	355	1.411	1.211	1.652	1.36e-05
+ATTRaCT	Asian	Women	Myocardial infarction	GenMetS	matched	46	46	1.081	0.761	1.545	0.663
+ATTRaCT	Asian	Men	Myocardial infarction	GenMetS	matched	286	286	1.142	0.977	1.336	0.0967
+ATTRaCT	Asian	Women	Hypertension	GenMetS	matched	349	349	1.436	1.225	1.692	1.09e-05
+ATTRaCT	Asian	Men	Hypertension	GenMetS	matched	602	602	1.012	0.9	1.139	0.84
